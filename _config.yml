@@ -1,7 +1,7 @@
-name: circle
+name: Circle Press Design
 favicon: null
-layout_spectrum: 0.5306406337767839
-typography_spectrum: 0.470484089339152
+layout_spectrum: 0
+typography_spectrum: 0.3219
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.1237999452278018
-  lightness: 0.22909852745942771
-  saturation: 0.29584505897946656
+    - '#414640'
+    - '#636d6c'
+    - '#fffdfd'
+    - '#a7bdc0'
+    - '#b3798a'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.0625
   rhythmicContrast: 0.9007356779184192
 purpose: []
