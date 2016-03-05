@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: A brief portfolio of logos.
-datePublished: '2016-03-05T00:31:10.461Z'
-dateModified: '2016-03-05T00:28:37.890Z'
+datePublished: '2016-03-05T18:57:27.953Z'
+dateModified: '2016-03-05T18:56:42.379Z'
 title: The Logo Quilt
 author: []
+sourcePath: _posts/2016-03-05-the-logo-quilt.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-05-the-logo-quilt.md
-published: true
 url: the-logo-quilt/index.html
 _type: Article
 
