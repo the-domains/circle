@@ -1,0 +1,28 @@
+name: circle
+favicon: null
+layout_spectrum: 0.5306406337767839
+typography_spectrum: 0.470484089339152
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.1237999452278018
+  lightness: 0.22909852745942771
+  saturation: 0.29584505897946656
+  rhythmicContrast: 0.9007356779184192
+purpose: []
