@@ -4,8 +4,15 @@
         <description><![CDATA[Circle Press Design]]></description>
         <link>http://circlepressdesign.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 03:00:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 03:11:19 GMT</lastBuildDate>
         <atom:link href="http://circlepressdesign.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Websites]]></title>
+            <description><![CDATA[<article><h1>Websites</h1><p>A strong web presence can be important, but some just don’t know where to start. Once we meet or chat, I will get to know your needs. Once I know your needs I can create all the content and manage your website for you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/77613dcfea25b2328204e021edfd7d3ad3826a7e.jpg"></article>]]></description>
+            <link>http://circlepressdesign.com/websites/index.html</link>
+            <guid isPermaLink="false">9f3881f4-246d-4723-9517-2e501a17eb47</guid>
+            <pubDate>Fri, 22 Apr 2016 03:10:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Videography]]></title>
             <description><![CDATA[<article><h1>Videography</h1><p>Video editing and motion graphics...but mostly video editing ;) vimeo.com/kylecarline</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32c7b23787ccb5e30c4f1c6865ecd5942fc0d839.jpg"></article>]]></description>
@@ -14,19 +21,19 @@
             <pubDate>Mon, 07 Mar 2016 02:26:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Logo Quilt]]></title>
+            <description><![CDATA[<article><h1>The Logo Quilt</h1><p>The logos I create are a product of knowing and understanding you and your goals. I make a great effort to give you a logo suite that fits these personal goals or fits the mission of your organization.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/857f3d2d6aa665039427fe589fb70e8733eecfc6.jpg"></article>]]></description>
+            <link>http://circlepressdesign.com/the-logo-quilt/index.html</link>
+            <guid isPermaLink="false">eeefc06a-4d66-43c6-9187-fecb16176f53</guid>
+            <pubDate>Sat, 05 Mar 2016 18:57:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Contact Me]]></title>
             <description><![CDATA[<article><h1>Contact Me</h1><p>Interested in my services? Let's connect. I would love to discuss your needs or brainstorm some ideas with you. I am even happy to give some marketing and design advice if you don't need a whole service. Just shoot me an email or give me a call & we can get the ball rolling.
  circlepressdesign@gmail.com (804) 251-0040</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45da5423573031797e536391809adadee38097d0.jpg"></article>]]></description>
             <link>http://circlepressdesign.com/contact-me/index.html</link>
             <guid isPermaLink="false">83d2eb04-3481-495c-8a9b-666a7cad70a2</guid>
             <pubDate>Sat, 05 Mar 2016 00:31:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Logo Quilt]]></title>
-            <description><![CDATA[<article><h1>The Logo Quilt</h1><p>The logos I create are a product of knowing and understanding you and your goals. I make a great effort to give you a logo suite that fits these personal goals or fits the mission of your organization.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/857f3d2d6aa665039427fe589fb70e8733eecfc6.jpg"></article>]]></description>
-            <link>http://circlepressdesign.com/the-logo-quilt/index.html</link>
-            <guid isPermaLink="false">eeefc06a-4d66-43c6-9187-fecb16176f53</guid>
-            <pubDate>Sat, 05 Mar 2016 18:57:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
