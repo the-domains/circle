@@ -1,9 +1,7 @@
-favicon: null
 name: Circle Press Design
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.7183811
+typography_spectrum: 0.3219
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-49634017-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 0.5
-  rhythmicContrast: 0.5
   brandColors:
     - '#414640'
     - '#636d6c'
     - '#fffdfd'
     - '#a7bdc0'
     - '#b3798a'
-  lightness: 1
-typography_spectrum: 0.3219
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.7183811
-analytics:
-  twitter: null
-  google: UA-49634017-1
-  facebook: null
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 0
+  rhythmicContrast: 0.5
+purpose: []
