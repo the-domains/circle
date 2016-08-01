@@ -1,31 +1,5 @@
-name: Circle Press Design
-favicon: null
-layout_spectrum: 0.7183811
-typography_spectrum: 0.3219
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
   google: UA-49634017-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#414640'
@@ -35,6 +9,11 @@ color:
     - '#b3798a'
   brandStrength: 0.5
   lightness: 1
-  saturation: 0
   rhythmicContrast: 0.75
+  saturation: 0
+cta: {}
+layout_spectrum: 0.592905
+name: Circle Press Design
+opengraph: {}
 purpose: []
+typography_spectrum: 0.3219
