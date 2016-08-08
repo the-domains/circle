@@ -1,14 +1,29 @@
 name: Circle Press Design
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/43eb8e6d-121b-4154-ab78-1137e33c3e46.jpg
+layout_spectrum: 0.25466
+typography_spectrum: 0.3219
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e28d3e0c-288c-457e-8f97-eb5af51b29f5.jpg
-layout_spectrum: 0.5151937750633806
-typography_spectrum: 0.3219
-cta: {}
+title: ''
+author:
+  name: Contact Kyle
+  url: ''
+  email: circlepressdesign@gmail.com
+content_rating:
+  adult: false
+coverPrefs:
+  filter: false
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
   google: UA-49634017-1
+  facebook: null
+  twitter: null
 opengraph:
+  image: null
   type: ''
   appId: ''
 color:
@@ -23,12 +38,3 @@ color:
   saturation: 0
   rhythmicContrast: 0.75
 purpose: []
-title: ''
-author:
-  name: Contact Kyle
-  url: ''
-  email: circlepressdesign@gmail.com
-content_rating:
-  adult: false
-coverPrefs:
-  filter: false
