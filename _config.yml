@@ -1,40 +1,52 @@
-name: Circle Press Design
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/43eb8e6d-121b-4154-ab78-1137e33c3e46.jpg
-layout_spectrum: 0.25466
-typography_spectrum: 0.3219
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e28d3e0c-288c-457e-8f97-eb5af51b29f5.jpg
 title: ''
-author:
-  name: Contact Kyle
-  url: ''
-  email: circlepressdesign@gmail.com
-content_rating:
-  adult: false
-coverPrefs:
-  filter: false
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-49634017-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: ''
-  appId: ''
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0
+  brandStrength: 0.5
+  rhythmicContrast: 0.75
   brandColors:
     - '#414640'
     - '#636d6c'
     - '#fffdfd'
     - '#a7bdc0'
     - '#b3798a'
-  brandStrength: 0.5
   lightness: 1
-  saturation: 0
-  rhythmicContrast: 0.75
-purpose: []
+coverPrefs:
+  filter: false
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-49634017-1
+  facebook: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/43eb8e6d-121b-4154-ab78-1137e33c3e46.jpg
+author:
+  name: Contact Kyle
+  url: ''
+  email: circlepressdesign@gmail.com
+name: Circle Press Design
+opengraph:
+  image: null
+  type: ''
+  appId: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e28d3e0c-288c-457e-8f97-eb5af51b29f5.jpg
+typography_spectrum: 0.3219
+layout_spectrum: 0.3768971
+content_rating:
+  adult: false
