@@ -1,28 +1,26 @@
 ---
+isBasedOnUrl: ''
+keywords: []
+title: About Kyle
+datePublished: '2016-08-08T16:05:19.518Z'
+dateModified: '2016-08-08T16:05:10.259Z'
+publisher:
+  name: ''
+  url: ''
+author:
+  - name: ''
+    url: ''
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: ''
-inLanguage: null
+description: 'A few things I understand:'
+via: {}
 starred: false
-keywords: []
-description: The designer behind Circle Press Design.
-datePublished: '2016-03-05T00:31:10.904Z'
-dateModified: '2016-03-05T00:22:18.279Z'
-title: About Kyle
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 sourcePath: _posts/2016-03-05-about-kyle.md
-published: true
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2eeacf82-b022-45b5-9eaf-403b2b54335d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce2084b4589993a84bea1ed0b7289879cc530990.jpg)
 
 A few things I understand:
 
