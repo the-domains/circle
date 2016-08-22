@@ -1,12 +1,5 @@
-name: Circle Press Design
-layout_spectrum: 0.3768971
+layout_spectrum: 0.33214697265066206
 typography_spectrum: 0.3219
-cta: {}
-analytics:
-  google: UA-49634017-1
-opengraph:
-  type: ''
-  appId: ''
 color:
   brandColors:
     - '#414640'
@@ -18,6 +11,15 @@ color:
   lightness: 1
   saturation: 0
   rhythmicContrast: 0.75
+coverPrefs:
+  filter: false
+name: Circle Press Design
+cta: {}
+analytics:
+  google: UA-49634017-1
+opengraph:
+  type: ''
+  appId: ''
 purpose: []
 title: ''
 author:
