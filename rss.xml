@@ -4,8 +4,15 @@
         <description><![CDATA[Circle Press Design]]></description>
         <link>http://circlepressdesign.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 13:50:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 02:12:09 GMT</lastBuildDate>
         <atom:link href="http://circlepressdesign.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact Me]]></title>
+            <description><![CDATA[<article><h1>Contact Me</h1><p>Interested in my services? Let's connect. I would love to discuss your needs or brainstorm some ideas with you. I am even happy to give some advice. Just shoot me an email or give me a call & we can get the ball rolling. circlepressdesign@gmail.com (804) 251-0040</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45da5423573031797e536391809adadee38097d0.jpg"></article>]]></description>
+            <link>http://circlepressdesign.com/contact-me/index.html</link>
+            <guid isPermaLink="false">83d2eb04-3481-495c-8a9b-666a7cad70a2</guid>
+            <pubDate>Tue, 23 Aug 2016 02:12:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Logo Quilt]]></title>
             <description><![CDATA[<article><h1>The Logo Quilt</h1><p>The logos I create are a product of knowing and understanding you and your goals. I make a great effort to give you a logo suite that fits these personal goals or fits the mission of your organization… </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/857f3d2d6aa665039427fe589fb70e8733eecfc6.jpg"></article>]]></description>
@@ -47,14 +54,6 @@
             <link>http://circlepressdesign.com/videography/index.html</link>
             <guid isPermaLink="false">82b63a53-6e43-47bf-9bd7-a647445d36ca</guid>
             <pubDate>Mon, 07 Mar 2016 02:26:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contact Me]]></title>
-            <description><![CDATA[<article><h1>Contact Me</h1><p>Interested in my services? Let's connect. I would love to discuss your needs or brainstorm some ideas with you. I am even happy to give some marketing and design advice if you don't need a whole service. Just shoot me an email or give me a call & we can get the ball rolling.
- circlepressdesign@gmail.com (804) 251-0040</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45da5423573031797e536391809adadee38097d0.jpg"></article>]]></description>
-            <link>http://circlepressdesign.com/contact-me/index.html</link>
-            <guid isPermaLink="false">83d2eb04-3481-495c-8a9b-666a7cad70a2</guid>
-            <pubDate>Sat, 05 Mar 2016 00:31:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
