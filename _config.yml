@@ -1,9 +1,20 @@
-name: Circle Press Design
-favicon: null
-layout_spectrum: 0.33214697265066206
+layout_spectrum: 0.8008660138584673
 typography_spectrum: 0.3219
+color:
+  brandColors:
+    - '#414640'
+    - '#636d6c'
+    - '#fffdfd'
+    - '#a7bdc0'
+    - '#b3798a'
+  brandStrength: 0.4920492907986045
+  lightness: 0.6097870925441384
+  saturation: 0.5947495384607464
+  rhythmicContrast: 0.3627955690026283
 coverPrefs:
   filter: false
+name: Circle Press Design
+favicon: null
 title: ''
 author:
   name: ''
@@ -23,15 +34,4 @@ opengraph:
   image: null
   type: ''
   appId: ''
-color:
-  brandColors:
-    - '#414640'
-    - '#636d6c'
-    - '#fffdfd'
-    - '#a7bdc0'
-    - '#b3798a'
-  brandStrength: 0.5
-  lightness: 0.875
-  saturation: 0
-  rhythmicContrast: 0.75
 purpose: []
