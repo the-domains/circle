@@ -13,8 +13,8 @@ keywords:
   - lightsourcepic
   - videos
 title: ''
-datePublished: '2016-08-08T11:11:52.429Z'
-dateModified: '2016-08-08T11:11:48.031Z'
+datePublished: '2016-08-23T02:15:29.636Z'
+dateModified: '2016-08-23T02:15:25.636Z'
 publisher:
   name: Twitter
   domain: twitter.com
