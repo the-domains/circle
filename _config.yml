@@ -1,16 +1,5 @@
-name: Circle Press Design
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a574b4bc-9413-4421-8f2f-0341fd3f6909.jpg
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ceb4710-fe02-43b9-8dc2-594606fdebae.jpg
-layout_spectrum: 0.8008660138584673
+layout_spectrum: 0.4061009103897959
 typography_spectrum: 0.3219
-cta: {}
-analytics:
-  google: UA-49634017-1
-opengraph:
-  type: ''
-  appId: ''
 color:
   brandColors:
     - '#414640'
@@ -18,10 +7,21 @@ color:
     - '#fffdfd'
     - '#a7bdc0'
     - '#b3798a'
-  brandStrength: 0.4920492907986045
-  lightness: 0.6097870925441384
-  saturation: 0.5947495384607464
-  rhythmicContrast: 0.3627955690026283
+  brandStrength: 0.10584510792978108
+  lightness: 0.3160746172070503
+  saturation: 0.7812548372894526
+  rhythmicContrast: 0.02445887541398406
+name: Circle Press Design
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a574b4bc-9413-4421-8f2f-0341fd3f6909.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ceb4710-fe02-43b9-8dc2-594606fdebae.jpg
+cta: {}
+analytics:
+  google: UA-49634017-1
+opengraph:
+  type: ''
+  appId: ''
 purpose: []
 title: ''
 author:
