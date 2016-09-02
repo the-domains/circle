@@ -1,23 +1,29 @@
 ---
-keywords: []
-title: Digital & Print Communications
-datePublished: '2016-08-30T19:31:37.911Z'
-dateModified: '2016-08-30T19:27:35.263Z'
-publisher: {}
-author:
-  - name: ''
-    url: ''
 inFeed: true
 hasPage: true
 inNav: false
+inLanguage: null
+keywords: []
 description: >-
   Many organizations require multiple types of marketing and I can provide
   guidance and application to accomplish goals. I believe that my passion and
   expertise in graphic design and web communication is an avenue to serve
   others…
+datePublished: '2016-08-30T19:32:51.729Z'
+dateModified: '2016-08-30T19:31:45.332Z'
+title: Digital & Print Communications
+author:
+  - name: ''
+    url: ''
 via: {}
-starred: true
 sourcePath: _posts/2016-03-05-digital-and-print-communications.md
+authors: []
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
+starred: true
 url: digital-and-print-communications/index.html
 _type: Article
 
