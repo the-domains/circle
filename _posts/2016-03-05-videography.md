@@ -1,8 +1,8 @@
 ---
 keywords: []
 title: Videography
-datePublished: '2016-08-30T19:40:00.119Z'
-dateModified: '2016-08-30T19:39:47.991Z'
+datePublished: '2016-08-30T19:47:56.335Z'
+dateModified: '2016-08-30T19:47:37.618Z'
 publisher:
   name: Vimeo
   url: 'http://www.vimeo.com/kylecarline'
