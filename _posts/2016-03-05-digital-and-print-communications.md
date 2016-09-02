@@ -9,8 +9,8 @@ description: >-
   guidance and application to accomplish goals. I believe that my passion and
   expertise in graphic design and web communication is an avenue to serve
   others…
-datePublished: '2016-08-30T19:32:51.729Z'
-dateModified: '2016-08-30T19:31:45.332Z'
+datePublished: '2016-08-30T19:33:22.628Z'
+dateModified: '2016-08-30T19:33:08.320Z'
 title: Digital & Print Communications
 author:
   - name: ''
