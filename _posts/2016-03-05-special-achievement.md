@@ -1,24 +1,28 @@
 ---
-datePublished: '2016-08-22T13:49:50.084Z'
-sourcePath: _posts/2016-03-05-special-achievement.md
 inFeed: true
-isBasedOnUrl: ''
-authors: []
 hasPage: false
+inNav: false
+isBasedOnUrl: ''
+inLanguage: null
 keywords: []
-author:
-  - name: ''
-    url: ''
-via: {}
-dateModified: '2016-08-22T13:49:49.790Z'
-title: Special Achievement
-publisher: {}
 description: >-
   Winner of a VCU Design Contest. A proud day in my life during my last year
   attending VCU. I feel I captured an image of VCU's Career Services that anyone
   can relate to and… 
-inLanguage: null
-inNav: false
+datePublished: '2016-08-30T18:00:19.192Z'
+dateModified: '2016-08-30T17:59:59.786Z'
+sourcePath: _posts/2016-03-05-special-achievement.md
+author:
+  - name: ''
+    url: ''
+via: {}
+title: Special Achievement
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 _type: Blurb
 
