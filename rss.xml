@@ -4,7 +4,7 @@
         <description><![CDATA[Logo Design // Brand Consulting // Website Managment]]></description>
         <link>http://circlepressdesign.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 19:33:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 19:40:03 GMT</lastBuildDate>
         <atom:link href="http://circlepressdesign.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Digital & Print Communications]]></title>
@@ -12,6 +12,13 @@
             <link>http://circlepressdesign.com/digital-and-print-communications/index.html</link>
             <guid isPermaLink="false">59d26b99-0bf2-4f13-aad6-ae3cb0b45399</guid>
             <pubDate>Tue, 30 Aug 2016 19:33:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Videography]]></title>
+            <description><![CDATA[<article><h1>Videography</h1><p>Video editing and motion graphics...but mostly video editing ;) vimeo.com/kylecarline</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32c7b23787ccb5e30c4f1c6865ecd5942fc0d839.jpg"></article>]]></description>
+            <link>http://circlepressdesign.com/videography/index.html</link>
+            <guid isPermaLink="false">82b63a53-6e43-47bf-9bd7-a647445d36ca</guid>
+            <pubDate>Tue, 30 Aug 2016 19:40:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Logo Quilt]]></title>
@@ -54,13 +61,6 @@
             <link>https://twitter.com/kylecarline/status/751419409042907136</link>
             <guid isPermaLink="false">689ba4b3-e439-42cf-9539-1de4a1b0dc29</guid>
             <pubDate>Fri, 15 Jul 2016 20:39:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Videography]]></title>
-            <description><![CDATA[<article><h1>Videography</h1><p>Video editing and motion graphics...but mostly video editing ;) vimeo.com/kylecarline</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32c7b23787ccb5e30c4f1c6865ecd5942fc0d839.jpg"></article>]]></description>
-            <link>http://circlepressdesign.com/videography/index.html</link>
-            <guid isPermaLink="false">82b63a53-6e43-47bf-9bd7-a647445d36ca</guid>
-            <pubDate>Mon, 07 Mar 2016 02:26:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
