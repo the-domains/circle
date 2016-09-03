@@ -1,34 +1,26 @@
 ---
+datePublished: '2016-08-31T22:56:18.011Z'
+sourcePath: _posts/2016-03-05-digital-and-print-communications.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
-description: >-
-  Many organizations require multiple types of marketing and I can provide
-  guidance and application to accomplish goals. I believe that my passion and
-  expertise in graphic design and web communication is an avenue to serve
-  others…
-datePublished: '2016-08-30T19:33:22.628Z'
-dateModified: '2016-08-30T19:33:08.320Z'
-title: Digital & Print Communications
 author:
   - name: ''
     url: ''
 via: {}
-sourcePath: _posts/2016-03-05-digital-and-print-communications.md
-authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+dateModified: '2016-08-31T22:56:17.672Z'
+title: ''
+publisher: {}
+description: Digital & Print Communications
+inLanguage: null
+inNav: false
 starred: true
 url: digital-and-print-communications/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec942a854ae9accac1cf29f5d7ef01d2cd1d1dd1.jpg)
+Digital & Print Communications
 
 Many organizations require multiple types of marketing and I can provide guidance and application to accomplish goals. I believe that my passion and expertise in graphic design and web communication is an avenue to serve others...
 
