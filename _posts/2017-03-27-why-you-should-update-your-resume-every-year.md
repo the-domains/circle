@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: 'Why You Should Update Your Resume Every Year - Author: Kyle Carline'
-dateModified: '2017-03-31T04:02:04.579Z'
-datePublished: '2017-03-31T04:02:05.156Z'
-title: ''
+dateModified: '2017-03-31T04:04:59.743Z'
+datePublished: '2017-03-31T04:05:00.533Z'
+title: Why You Should Update Your Resume Every Year
 author: []
 publisher: {}
 via: {}
@@ -16,9 +16,6 @@ _type: Article
 
 ---
 Why You Should Update Your Resume Every Year - Author: Kyle Carline
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9zkEKgCAQRuF9pwgv0D4yuokM-mOSYzBNhLcvWrWoDvA93jCDwtgMDKW2EMMaPZIqpPckwbR-LYqi1mw7M0l1mSTCJaYI8w63pHjAaakZVyyn8iW8gHSVH9TdnydSVD4T" height="244" style=""></iframe>
-
 ![How to define your goals and work a happy life.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1f483e8-f953-49c3-963b-07739c4f5b35.jpg)
 
 It makes sense to update your resume before you apply for a job, but you should also update your resume even if you already have your job. The resume is a tool used to outline your interests and experiences. Great resumes accomplish describing a person's past by not only listing employment but by providing a sense of personality, equally unique as the experiences. Visually striking and interactive resumes are unforgettable when compared to a traditional, word processed curriculum vitae. However, _you_ are creating _your_ resume, you should built it from self-examination and reflection on who you are and what you want to do.
