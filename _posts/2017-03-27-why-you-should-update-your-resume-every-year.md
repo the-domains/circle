@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: 'Why You Should Update Your Resume Every Year - Author: Kyle Carline'
-dateModified: '2017-03-31T04:01:27.431Z'
-datePublished: '2017-03-31T04:01:28.377Z'
-title: Why You Should Update Your Resume Every Year
+dateModified: '2017-03-31T04:02:04.579Z'
+datePublished: '2017-03-31T04:02:05.156Z'
+title: ''
 author: []
 publisher: {}
 via: {}
@@ -16,6 +16,9 @@ _type: Article
 
 ---
 Why You Should Update Your Resume Every Year - Author: Kyle Carline
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9zkEKgCAQRuF9pwgv0D4yuokM-mOSYzBNhLcvWrWoDvA93jCDwtgMDKW2EMMaPZIqpPckwbR-LYqi1mw7M0l1mSTCJaYI8w63pHjAaakZVyyn8iW8gHSVH9TdnydSVD4T" height="244" style=""></iframe>
+
 ![How to define your goals and work a happy life.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1f483e8-f953-49c3-963b-07739c4f5b35.jpg)
 
 It makes sense to update your resume before you apply for a job, but you should also update your resume even if you already have your job. The resume is a tool used to outline your interests and experiences. Great resumes accomplish describing a person's past by not only listing employment but by providing a sense of personality, equally unique as the experiences. Visually striking and interactive resumes are unforgettable when compared to a traditional, word processed curriculum vitae. However, _you_ are creating _your_ resume, you should built it from self-examination and reflection on who you are and what you want to do.
@@ -33,9 +36,5 @@ Updating your resume doesn't mean you should be constantly applying for new jobs
 Your resume involves effort and if you are willing to work hard for the rewards of knowing you are doing your work to best of your ability, you will find updating it is an easy and worthy task. You might just find that when you update your resume, you have done some pretty great things and are quite happy with where you are in life. If you don't want to update your resume or write cover letters or even if you don't want to remember you read this article, I have advice for you. Be a servant above being an employee. Having a self-less, servant's attitude will get you further in your career than merely doing your job and clocking out. Work hard, find your goals, meet them, celebrate and remember that you didn't do it for yourself, but you did it to serve those around you.
 
 Author's Bio: Kyle Carline, I am a freelance graphic designer specializing in brand consulting, logos and website management. I help individuals and small businesses realize their potential through digital media and encouraging coffee meetings. [Contact Me][0] to learn more.
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9zkEKgCAQRuF9pwgv0D4yuokM-mOSYzBNhLcvWrWoDvA93jCDwtgMDKW2EMMaPZIqpPckwbR-LYqi1mw7M0l1mSTCJaYI8w63pHjAaakZVyyn8iW8gHSVH9TdnydSVD4T" height="244" style=""></iframe>
-
-
 
 [0]: http://circlepress.design/contact-me "Contact Me!"
