@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Why You Should Update Your Resume Every Year - Author: Kyle Carline'
-dateModified: '2017-03-31T04:04:59.743Z'
-datePublished: '2017-03-31T04:05:00.533Z'
+dateModified: '2017-04-12T13:43:42.755Z'
+datePublished: '2017-04-12T13:43:43.497Z'
 title: Why You Should Update Your Resume Every Year
 author: []
 publisher: {}
@@ -22,7 +22,7 @@ It makes sense to update your resume before you apply for a job, but you should 
 
 ---
 
-Keeping your CV up-to-date doesn't just make the job application process easier, it is a way for you to get to know yourself better. When building your resume think about more than just the jobs you have done in the past. Consider the things you have learned and how you have grown from those experiences. If you don't think you have grown from your experiences, then make that obvious to yourself. Perhaps now is the time to get a job that you can learn and grow from. Ask yourself questions to help yourself verbalize what you intend to do with your future. Prepare your mindset to be reflective and begin to outline in words what your goals are.
+Keeping your CV up-to-date doesn't just make the job application process easier, it is a way for you to get to know yourself better. When building your resume think about more than just the jobs you have done in the past. Consider the things you have learned and how you have grown from those experiences. If you don't think you have grown from your experiences, then make that obvious to yourself. Perhaps now is the time to get a job that you can learn and grow from. Ask yourself questions to help yourself verbalize what you intend to do with your future. Prepare your mindset to be reflective and begin to outline in words what your goals are so that you may show it in your resume.
 
 > Having a self-less, servant's attitude will get you further in your career than merely doing your job and clocking out. 
 
@@ -32,6 +32,7 @@ Updating your resume doesn't mean you should be constantly applying for new jobs
 
 Your resume involves effort and if you are willing to work hard for the rewards of knowing you are doing your work to best of your ability, you will find updating it is an easy and worthy task. You might just find that when you update your resume, you have done some pretty great things and are quite happy with where you are in life. If you don't want to update your resume or write cover letters or even if you don't want to remember you read this article, I have advice for you. Be a servant above being an employee. Having a self-less, servant's attitude will get you further in your career than merely doing your job and clocking out. Work hard, find your goals, meet them, celebrate and remember that you didn't do it for yourself, but you did it to serve those around you.
 
-Author's Bio: Kyle Carline, I am a freelance graphic designer specializing in brand consulting, logos and website management. I help individuals and small businesses realize their potential through digital media and encouraging coffee meetings. [Contact Me][0] to learn more.
+Author's Bio: Kyle Carline is the founder of Circle Press Design and a freelance graphic designer specializing in logos and online content management. He helps individuals and small businesses realize their potential through digital media and encouraging coffee meetings. [Contact him][0] or follow on [Twitter][1] to learn more.
 
 [0]: http://circlepress.design/contact-me "Contact Me!"
+[1]: http://twitter.com/kylecarline "Twitter"
