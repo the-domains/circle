@@ -1,47 +1,61 @@
-layout_spectrum: 0.9885969085569982
-typography_spectrum: 0.327720260122459
+name: Circle Press Design
+analytics:
+  google: UA-49634017-1
+  twitter: circlepressdesign_twitter
+purpose:
+  - type: contact
+    url: 'mailto:circlepressdesign@gmail.com'
+    label: Email Me!
+  - type: contact
+    url: 'tel:804-251-0040'
+    label: Or Call Me
+github: true
+cta: {}
+author:
+  name: Kyle Carline
+  url: 'http://circlepress.design'
+  email: circlepressdesign@gmail.com
 color:
+  lightness: 0.08782411966223896
   brandColors:
     - '#F2385A'
     - '#F5A503'
     - '#E9F1DF'
     - '#4AD9D9'
     - '#36B1BF'
-  brandStrength: 0.8279031633397582
-  lightness: 0.08782411966223896
   saturation: 0.7294437695933634
+  brandStrength: 0.8279031633397582
   rhythmicContrast: 0.4101933450054488
-content_rating:
-  adult: false
-opengraph:
-  type: ''
-  appId: ''
-analytics:
-  google: UA-49634017-1
-author:
-  name: Kyle Carline
-  url: 'http://circlepress.design'
-  email: circlepressdesign@gmail.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ea218f7-a00f-4ca7-84e7-f3dd75bfa222.jpg
-name: Circle Press Design
-cta: {}
+layout_spectrum: 0.9885969085569982
 navigation:
-  - name: The Logo Quilt
-    id: eeefc06a-4d66-43c6-9187-fecb16176f53
+  - id: eeefc06a-4d66-43c6-9187-fecb16176f53
+    name: The Logo Quilt
     type: content
-  - name: Websites
-    id: 9f3881f4-246d-4723-9517-2e501a17eb47
+  - id: 9f3881f4-246d-4723-9517-2e501a17eb47
+    name: Websites
     type: content
-  - name: Videography
-    id: 82b63a53-6e43-47bf-9bd7-a647445d36ca
+  - id: 82b63a53-6e43-47bf-9bd7-a647445d36ca
+    name: Videography
     type: content
-  - name: Contact Me
-    id: 83d2eb04-3481-495c-8a9b-666a7cad70a2
+  - id: 83d2eb04-3481-495c-8a9b-666a7cad70a2
+    name: Contact Me
     type: content
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a574b4bc-9413-4421-8f2f-0341fd3f6909.jpg
-title: Logo Design // Brand Consulting // Website Managment
+content_rating:
+  adult: false
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -52,28 +66,24 @@ content:
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/be969b54-721e-427b-9520-08feb7de2332.jpg
     metadata:
       author: []
-      related: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
       publisher:
+        favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
+      related: []
       app_links: []
       '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: ''
-purpose:
-  - type: contact
-    url: 'mailto:circlepressdesign@gmail.com'
-    label: Email Me!
-  - type: contact
-    url: 'tel:804-251-0040'
-    label: Or Call Me
+typography_spectrum: 0.327720260122459
+opengraph: {}
+title: Logo Design // Brand Consulting // Website Managment
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ea218f7-a00f-4ca7-84e7-f3dd75bfa222.jpg
 url: 'http://circlepress.design'
-github: true
