@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-04-22T12:55:33.703Z'
+datePublished: '2017-06-07T20:01:01.926Z'
 description: >-
   Video editing and motion graphics. Watch a few of my video projects at
   vimeo.com/kylecarline
@@ -9,7 +9,7 @@ inFeed: true
 publisher:
   name: Vimeo
   url: 'http://www.vimeo.com/kylecarline'
-dateModified: '2017-04-22T12:51:51.014Z'
+dateModified: '2017-06-07T20:01:01.709Z'
 sourcePath: _posts/2016-03-05-videography.md
 title: Videography
 hasPage: true
