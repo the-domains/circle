@@ -2,21 +2,19 @@
 isBasedOnUrl: ''
 keywords: []
 title: About Kyle
-datePublished: '2016-08-08T16:05:19.518Z'
-dateModified: '2016-08-08T16:05:10.259Z'
-publisher:
-  name: ''
-  url: ''
+datePublished: '2017-06-07T20:01:01.930Z'
+dateModified: '2017-06-07T20:01:01.709Z'
+publisher: {}
 author:
   - name: ''
     url: ''
 inFeed: true
 hasPage: false
-inNav: false
 description: 'A few things I understand:'
 via: {}
-starred: false
 sourcePath: _posts/2016-03-05-about-kyle.md
+starred: false
+datePublishedOriginal: '2016-08-08T16:05:19.518Z'
 _type: Blurb
 
 ---
