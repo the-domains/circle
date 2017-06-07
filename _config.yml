@@ -1,3 +1,16 @@
+layout_spectrum: 0.1927683792050264
+typography_spectrum: 0.3290032295084162
+color:
+  lightness: 0.08657625213763354
+  brandColors:
+    - '#F2385A'
+    - '#F5A503'
+    - '#E9F1DF'
+    - '#4AD9D9'
+    - '#36B1BF'
+  saturation: 0.7244478700994191
+  brandStrength: 0.36919682693455624
+  rhythmicContrast: 0.41478569822994493
 name: Circle Press Design
 analytics:
   google: UA-49634017-1
@@ -15,30 +28,15 @@ author:
   name: Kyle Carline
   url: 'http://circlepress.design'
   email: circlepressdesign@gmail.com
-color:
-  lightness: 0.08782411966223896
-  brandColors:
-    - '#F2385A'
-    - '#F5A503'
-    - '#E9F1DF'
-    - '#4AD9D9'
-    - '#36B1BF'
-  saturation: 0.7294437695933634
-  brandStrength: 0.8279031633397582
-  rhythmicContrast: 0.4101933450054488
-layout_spectrum: 0.9885969085569982
 navigation:
-  - id: eeefc06a-4d66-43c6-9187-fecb16176f53
-    name: The Logo Quilt
+  - name: Logos
+    id: eeefc06a-4d66-43c6-9187-fecb16176f53
     type: content
-  - id: 9f3881f4-246d-4723-9517-2e501a17eb47
-    name: Websites
+  - name: Websites
+    id: 9f3881f4-246d-4723-9517-2e501a17eb47
     type: content
-  - id: 82b63a53-6e43-47bf-9bd7-a647445d36ca
-    name: Videography
-    type: content
-  - id: 83d2eb04-3481-495c-8a9b-666a7cad70a2
-    name: Contact Me
+  - name: Videos
+    id: 82b63a53-6e43-47bf-9bd7-a647445d36ca
     type: content
 collections:
   - index:
@@ -81,9 +79,9 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-typography_spectrum: 0.327720260122459
 opengraph: {}
 title: Logo Design // Brand Consulting // Website Managment
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ea218f7-a00f-4ca7-84e7-f3dd75bfa222.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4630b1b0-6095-4e22-9702-01f1bdd5a305.png
 url: 'http://circlepress.design'
+description: Portfolio of work by Kyle Carline
