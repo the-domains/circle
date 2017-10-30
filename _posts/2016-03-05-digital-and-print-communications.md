@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-09-17T02:50:48.864Z'
+datePublished: '2017-10-30T15:47:23.456Z'
 authors: []
 description: >-
   Get help with your digital & print communications. I can provide guidance and
@@ -11,7 +11,7 @@ via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2017-09-17T02:50:42.178Z'
+dateModified: '2017-10-30T15:47:22.703Z'
 sourcePath: _posts/2016-03-05-digital-and-print-communications.md
 title: ''
 hasPage: true
