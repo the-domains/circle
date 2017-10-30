@@ -1,27 +1,21 @@
 ---
 keywords: []
-title: Contact Me
-datePublished: '2016-08-27T20:12:45.084Z'
-dateModified: '2016-08-27T20:12:24.755Z'
+title: ''
+datePublished: '2017-10-30T15:45:14.059Z'
+dateModified: '2017-10-30T15:45:13.433Z'
 publisher: {}
-author:
-  - name: ''
-    url: ''
+author: []
 inFeed: true
 hasPage: true
-inNav: true
-description: >-
-  Interested in my services? Let's connect. I would love to discuss your needs
-  or brainstorm some ideas with you. I am even happy to give some advice. Just
-  shoot me an email or give me a call & we can get the ball rolling.
-  circlepressdesign@gmail.com (804) 251-0040
+description: Contact Me
 via: {}
-starred: false
 sourcePath: _posts/2016-03-05-contact-me.md
+starred: false
+datePublishedOriginal: '2016-10-30T00:12:03.905Z'
 url: contact-me/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/45da5423573031797e536391809adadee38097d0.jpg)
+Contact Me
 
 Interested in my services? Let's connect. I would love to discuss your needs or brainstorm some ideas with you. I am even happy to give some advice. Just shoot me an email or give me a call & we can get the ball rolling. circlepressdesign@gmail.com (804) 251-0040
