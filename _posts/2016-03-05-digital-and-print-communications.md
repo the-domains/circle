@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-11-14T02:08:58.728Z'
+datePublished: '2017-11-14T02:10:37.582Z'
 authors: []
 description: >-
   Get help with your digital & print communications. I can provide guidance and
@@ -11,7 +11,7 @@ via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2017-11-14T02:08:58.126Z'
+dateModified: '2017-11-14T02:10:37.140Z'
 sourcePath: _posts/2016-03-05-digital-and-print-communications.md
 title: ''
 hasPage: true
@@ -26,7 +26,7 @@ Get help with your digital & print communications. I can provide guidance and ap
 
 Scroll down to see more and learn about Kyle...
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJydUtFq2zAUfe9X3OqhDwVHabI1TWK7lHTsYaxroLCHUoJsXTu3kyUjKc7cr59sl7SFhcH0dCXOueeeoxtnRrbpSXwaRfDVmFIhrIxEKIyFFdk83O8tOge36KjU8BMzR74D6QatI6PhXpQIUZRC7HJLtQff1pgwj789fxaNGF5ZesLPIT59XN3ePNw8wjmHRlgoe81Nfmi3IQkJzC9nk-nn8eV4eQSlhC53nXACDDU7Bgs2KuE70PQoJjcqmA2Qoj9HcUpkqDrc5CU3qztaV_rLev5tl72sv38kWayE_YWedLkxWrWBVAjlcAkhgqentDMf8yGXf8UGzuYJ43y_34-G9kI6tA3l6Ea5qXgdUhCSvw06enYsfd9fm0MpqQHnWxWEJLlaiXZBWpHGZUehqoQtUrn1CbtgsCfpt331SsmMlWij_rbQpmOBUAH8H1Pywxfz6z7Z5C-xnomqXpY7ksmPu74ejCRjxsPO8uCmM_rOHx_WeRgh6jY1CnpUUC58EF28_tD0Yjq_-jQZz-YzRDErRltfqT87Mwvj" height="1" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJydkk9LAzEQxe9-ijEHD8I2VVHR7q5IFQ_in4LgQaRkN9N0NJssSbp1_fRmt1IVLII5TcLvzeS9JC2sbPOtdDtJ4MpapRHGViLMrIMxuTLu7x16DxfoSRl4xMJT6CDToPNkDdwLhZAkOaS-dFQHCG2NGQv4FviLaMTqlOVbfBfS7afxxfnD-RPscmiEA9XPnJbrdlOSkMHJ0fH-weHwaDjaQGlh1KIbnAFDwzZh0UYlQgcdbGRKq6PZiMz6tZHTokDdcfvvpR3f0qQyl5OT60XxPrn5KXJYCfeKgYyaWqPbKJoJ7XEEMYLn57wzn_JVLn_FBt6VGeN8uVwOVu2F9OgaKtEPSlvxOqYgJP-66ODFs_x7f2PXpaQGfGh1HCTJ11q0p2Q0GRx1EqoUzJHUPGRsj8GSZJj31aeksE6iS_rdqbGdCoSO8D9uyddPzM_6ZLNfYt0RVT1SC5LZ3W1fr4xkQ8bjn-XRTWf0mz_ef-cPjTv5dA" height="1" style=""></iframe>
 
 ---
 
