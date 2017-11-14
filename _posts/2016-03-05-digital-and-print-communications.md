@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-11-14T02:10:37.582Z'
+datePublished: '2017-11-14T02:44:54.319Z'
 authors: []
 description: >-
   Get help with your digital & print communications. I can provide guidance and
@@ -11,7 +11,7 @@ via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2017-11-14T02:10:37.140Z'
+dateModified: '2017-11-14T02:44:53.896Z'
 sourcePath: _posts/2016-03-05-digital-and-print-communications.md
 title: ''
 hasPage: true
@@ -31,3 +31,5 @@ Scroll down to see more and learn about Kyle...
 ---
 
 I am more than happy to collaborate with large businesses, small organizations or individuals who have ideas they want to see in print, a website that needs touch-up, refreshed logos or some posters for an event. I am an artist with professional experience in communications and I am ready to help out any way I can.
+
+Circle Press Design originally began as a t-shirt printing service. The goal was to give a fully customized experience for groups who need shirts designed and printed. Focusing on a great design conversation to produce something unique and wearable. The name Circle Press Design is adapted from the printing process, in which the printing arms rotate in a circle pausing at each step to print a color and move on to complete the design. In the same way Circle Press Design wants to be with its clients and customers at each step of the process until the product is complete.
