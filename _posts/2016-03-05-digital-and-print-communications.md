@@ -1,17 +1,12 @@
 ---
-datePublished: '2017-11-14T02:44:54.319Z'
+datePublished: '2017-12-21T03:25:18.234Z'
 authors: []
-description: >-
-  Get help with your digital & print communications. I can provide guidance and
-  application to accomplish your goals by creating content with you, designing
-  your logo or helping with your website woes. I believe that my passion and
-  expertise in graphic design and web communication is an avenue to serve
-  others. So let's make something together.
+description: Get help with your digital & print communications.
 via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2017-11-14T02:44:53.896Z'
+dateModified: '2017-12-21T03:24:13.698Z'
 sourcePath: _posts/2016-03-05-digital-and-print-communications.md
 title: ''
 hasPage: true
@@ -22,7 +17,9 @@ url: digital-and-print-communications/index.html
 _type: Article
 
 ---
-Get help with your digital & print communications. I can provide guidance and application to accomplish your goals by creating content with you, designing your logo or helping with your website woes. I believe that my passion and expertise in graphic design and web communication is an avenue to serve others. So let's make something together.
+Get help with your digital & print communications.
+
+Google Adwords certified with years of graphic design and website experience. The thing that makes Kyle and Circle Press Design stand out among all the other people you could work with is that he makes it personal. Kyle creates the content with you and is there together in every step of the project. Design logos, create ad campaigns, talk email strategy, or build a website. Let's get to know each other... let's make it personal.
 
 Scroll down to see more and learn about Kyle...
 
