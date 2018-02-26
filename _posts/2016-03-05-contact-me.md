@@ -1,5 +1,5 @@
 ---
-datePublished: '2018-02-26T21:01:29.856Z'
+datePublished: '2018-02-26T21:06:50.181Z'
 description: >-
   Interested in my services? Let's connect. I would love to discuss your needs
   or brainstorm some ideas with you. I am even happy to give some advice. Just
@@ -9,7 +9,7 @@ via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2018-02-26T21:01:29.308Z'
+dateModified: '2018-02-26T21:06:49.373Z'
 sourcePath: _posts/2016-03-05-contact-me.md
 title: Contact Me
 hasPage: true
@@ -37,7 +37,7 @@ These days Circle Press Design, is run by it's original founder Kyle Carline. Ha
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyVkU0KgzAQRveeYph9CWqW0WUv0ANIbCINxB90lPb2zRgXLVipkMU3ZPIek0lU048tOFMg2YkuXGGZAISjjFs4huR1bX15ddYbSJWIZbxy3TAT0GuwjHgSQqfbkJlUNfyiShEGr-_20XtjxwI3DgpGKLFqfvuy075s15d9-Y4mzE8b811j_rdRnjbKXaM8-NN6Juq7jTrNdesIee8xbpu_rYUSsfmTpQR3lG-7t6q9" height="300" style=""></iframe>
 
     var $form = $('form#test-form'),
-        url = 'https://script.google.com/macros/u/0/s/AKfycbwQtnhl3IaGqYwNVJMOeKrKde0KRIH-vuePJDUU9olV0LuxdTFu/exec'
+        url = 'https://script.google.com/macros/s/AKfycbwQtnhl3IaGqYwNVJMOeKrKde0KRIH-vuePJDUU9olV0LuxdTFu/exec'
     
     $('#submit-form').on('click', function(e) {
       e.preventDefault();
