@@ -1,5 +1,5 @@
 ---
-datePublished: '2018-02-26T20:57:39.097Z'
+datePublished: '2018-02-26T21:01:29.856Z'
 description: >-
   Interested in my services? Let's connect. I would love to discuss your needs
   or brainstorm some ideas with you. I am even happy to give some advice. Just
@@ -9,7 +9,7 @@ via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2018-02-26T20:57:38.775Z'
+dateModified: '2018-02-26T21:01:29.308Z'
 sourcePath: _posts/2016-03-05-contact-me.md
 title: Contact Me
 hasPage: true
@@ -34,4 +34,19 @@ These days Circle Press Design, is run by it's original founder Kyle Carline. Ha
 
 ### Fill out the form to stay in touch
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyVkl1P2zAUhu_7K6yAlESCuLS9WZciTWIwKBv7KEi7Qo590rhz7OCPEob477OTbuqkDq1SFL3n-Pg857U9yEula8TZLLJg7HGIotMBQv7LGV8H6ZUgBYjTcw6CoZMc92G_xGXjLLJPDYQWrY2QJLXXodN9GXbcn0SoEYRCpQQDPYs2fSIcWuS4w_ybN9qbN9rJG_3Fe83heG_ieCdx_N_Eyd7EyU7i5JUzLZy1Sm66GlfU3Ebh3nu5uflvXZDjvni7V45DhRdrotFh92pm6DCJgzr483bi9KijOS38clxZ25gpxoZq3thsqdRSQEZVjWtCtTLY4SE2-N28fKLF4xcrKzG-JBcP3x8_3V19vIG5njMYzr9efjheO_h8dXZ7-0aJu-G1a9ni3GFogcaDgR_jYMtGnGZKJjEVnP6Ij1DpJLXcZyBFz346yBoNa5D2DErihE3Stz4bbK0e2koHWxlZkTZ5_m1lGn69sRpspdgURRfvF1GfYsSShT9Vn1wZJbey0_6gMgOaE8F_wk2xAuqBvuIlzYyjFIxJunqMEVPIqADgculzfqyX9BfkNBwt" height="400" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyVkU0KgzAQRveeYph9CWqW0WUv0ANIbCINxB90lPb2zRgXLVipkMU3ZPIek0lU048tOFMg2YkuXGGZAISjjFs4huR1bX15ddYbSJWIZbxy3TAT0GuwjHgSQqfbkJlUNfyiShEGr-_20XtjxwI3DgpGKLFqfvuy075s15d9-Y4mzE8b811j_rdRnjbKXaM8-NN6Juq7jTrNdesIee8xbpu_rYUSsfmTpQR3lG-7t6q9" height="300" style=""></iframe>
+
+    var $form = $('form#test-form'),
+        url = 'https://script.google.com/macros/u/0/s/AKfycbwQtnhl3IaGqYwNVJMOeKrKde0KRIH-vuePJDUU9olV0LuxdTFu/exec'
+    
+    $('#submit-form').on('click', function(e) {
+      e.preventDefault();
+      var jqxhr = $.ajax({
+        url: url,
+        method: "GET",
+        dataType: "json",
+        data: $form.serializeObject()
+      }).success(
+        // do something
+      );
+    })
