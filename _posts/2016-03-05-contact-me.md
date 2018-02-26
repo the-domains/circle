@@ -1,5 +1,5 @@
 ---
-datePublished: '2018-02-26T21:26:47.599Z'
+datePublished: '2018-02-26T23:32:04.276Z'
 description: >-
   Interested in my services? Let's connect. I would love to discuss your needs
   or brainstorm some ideas with you. I am even happy to give some advice. Just
@@ -9,7 +9,7 @@ via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2018-02-26T21:26:47.269Z'
+dateModified: '2018-02-26T23:32:03.669Z'
 sourcePath: _posts/2016-03-05-contact-me.md
 title: Contact Me
 hasPage: true
@@ -34,4 +34,4 @@ These days Circle Press Design, is run by it's original founder Kyle Carline. Ha
 
 ### Fill out the form to stay in touch
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJydkk1v00AQhu_9FVNf7EiNfUAUEdkWSE0ExIIK86UiDpv12F5pP5zdcU1S8d9Z22ngABLitJrR-z6vZ8ZpbawCzRRmget3StCSzLIxppG4dC0iBfkFQCp019NJh4oJGQAdul9FJxnH1sgKbRas557FfS8sVhNg1xMZfTLNSUFeikaDQui7yzSZFflFmozf5F_HregInOVZ0BJ1bpUkw9FWsdCJI6YrJo3GSV0xYsvOyEMtpAzyNJm9_w7prFHC4ZnxQjJCR_-DGlpGQ7OskXj7d8y4FG6087yp_vi-gAzCR-7cjOdDxNyoRDFujUtc8nJbH_huUMX-TmNZvPkybJ4iP16z5nX5fGM_H28HkgV_y-rtk0_P7ss9F9d3m-2rBL8jD8-x0-EzqAzvFWqKx9p9Df_8E4TfvG9UxKyq1vdeXwhHqNFGJ0d4BQhZDg9eCIBxZ3GU3WDNeknRYmpPO4nOA1_Bg78-taZaQXj7rvzgITtTHVagcYCNj7vxd43G3MWPmQAQU4s6sug6P8YUOc5j_JakaaKw7DlH5y496lGzOFs5G_PRWmN_N06NKFyPz2ic6lh5DGtmt08_X_An_igZOA" height="100" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJydU1tv0zAUfu-v8MJDMmlJgLEhehMTWzVYNSbKTUM8OM5JYs2xPftkaTvx37GTtkMTCMSTc06-i8_F40KZmlhcCZgEGWU3pVGNzGOmhDJD8uTFm5PZ0dPRIFMmB5eQSsJosPnbVhxdpGmec1kOybMjvSSHz_VyNEBYYkwFL-WQMJAIZpPLgSlDkSu5Fcu51YKuhoRLwSXEmVDsZjQolMTY8jU43WMnGRBJa3dJ22Q1xxhVXCpVCohtBYDBdDDmUje4QUFNuQgIrvRD4FwYVEq4QibBWZ8zcNtwA_kjesGNRf-5lfB3f6Qw8xhy6UGP2IL-lTynD1xCxlmDqOQG3lcYTBeue6QG0ui9cdojnFHqJ-ZOywzXSKxhk6BC1HaYpu3a5AmXqUUqcypcezt0TpHGWolVwYUIpuO05_67iDaq5hZ2Gq8FRbD4P1JtRbEt4wKQVX-W8U1hSroe9fGnD3MyIeFWt08m_QIkTNVpTZlRNrXpyUWxYllbz2-vJSzm7762syNg62Navl28mpkv66sWxZxd0uLi8PPLu8Ut48fXs4vzFJbAwp1t9ywmJFesqd36Jj6238LfL1_43fE8InEv4ezO4efcIkgw0YYRHhAgkym5d0BCINEGPOwUCtoIjPa7dNeTaFfwAbl308dK5UMSXr1ffHQimcrdQ5HQkpmzO3Vzjbzv_o9egZAEK5CRAatdGZ2lr0e5LglVRuGiYQys3XNSW8z-jsqo9wdjlPmV2CWi8MwfntjFSe1kaNmznftugj8BZzt8DQ" height="100" style=""></iframe>
