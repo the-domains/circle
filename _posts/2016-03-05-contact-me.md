@@ -1,5 +1,5 @@
 ---
-datePublished: '2018-02-26T23:48:50.576Z'
+datePublished: '2018-02-26T23:50:13.414Z'
 description: >-
   Interested in my services? Let's connect. I would love to discuss your needs
   or brainstorm some ideas with you. I am even happy to give some advice. Just
@@ -9,7 +9,7 @@ via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2018-02-26T23:48:50.099Z'
+dateModified: '2018-02-26T23:50:13.106Z'
 sourcePath: _posts/2016-03-05-contact-me.md
 title: Contact Me
 hasPage: true
@@ -34,4 +34,4 @@ These days Circle Press Design, is run by it's original founder Kyle Carline. Ha
 
 ### Fill out the form to stay in touch
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy9k9tunDAQhu95CpdeQKQASqJNVfagVkpWbbNKo25PStULYwawamxim5DdKO_eMWy2VbQ9qqpvjId_vjl4PDF2JWDmZa21St56GWVfSq1amUdMCaVT8rjo19jLlM5BR5rmvDUpGTU3Y2-jyQS6jb2G5jmXZUoO8Cc5OnQKCzc2ooKXMiUMpAW9seXAlKaWK_whlYSxl3PTCLpKCZeCS4gyoRy1UNJGhq8BuccOeYcmXZOdyf40za7iFv5jmlw2rd2d56hff5StS_Zg9O-TPRySnSSbUZj03ZW0hqlv2qzmNrIqKpUqBUSmArA-iobaBhXUlAuf2FXz7YBRGVRKYHVT_3SwabhquYZ8RiaZfsAouDbWfd5zXEEPMHOnIedOtAsh6C8JC7oFeAQR_dRv5EOt_myJfSU1kLZ5NEkGBQZKXFdwN0zzxhKj2dSvrG1MmiTdWucxl9hAKnMqsPG9OqeWRo0Sq4IL4c-wwb3v70MarWpuYMt4JqgFY_8G1VXUdmVUgGXVjzGuKUxJ7NFwfvdmQaYkuOcOxngYhZipOqkp08okJnl-VqxY1tWLq0sJy8Wrj918BGx9TMuXy6dz_WF90VmxYOe0ODt6_-R6ecX48eX87EUCN8CCbdh-9KYkV6ytcbBjdzafgt1jGHxGP6eI8YmcXqN-wY0FCTrceAT7BMh0hk-Q4IK40eBkJ1DQVthwrzf3PQm3Be-TW7x9W6k8JcHF6-VbhGQqxyckoSNzDHeC9xq6uHt3A4GQ2FYgQw2mwTL6kK4ehV0SqgyDZcsYGPMIUfeava0roy4-aK309469IQxO3eYc-3NcI4aWgzdG397gV6IZ_L8" height="100" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy9U9tO3DAQfd-vMOlDFokkBQRVsxe1EqzasqKo25uo-uDYk8SqYwfbIewi_r3jZNlWaHsRqpoXx-Nzzswcj8fWLSVMB1njnFa3g4yyb4XRjeIR01KblDzJu280yLThYCJDuWhsSo7qm9Fgjckk0kaDmnIuVJGSfTwkhwce4eDGRVSKQqWEgXJg1jEOTBvqhMYDpRWMBlzYWtJlSoSSQkGUSe1Vc61cZMUKUPfYS95hyFRka7G_LbMthYP_WKZQdeO21_kYU59itftH_77ag77acbKehXFnr6IVTALbZJVwkdNRoXUhIbIlgAsQ1DfXo6CiQgbELesfG8zKoNQS25sEp33MwFUjDPApGWfmgUYujHX-917HN_RAZuYx5NyDtklI-keFOX0gQHDpZn_N6RsOpgs0l1RAmnpnnPQIzJZ4a3C1zIjaEWvYJCidq22aJO3K8FgodJEqTiW636E5dTSqtVzmQspgii533L8XqY2uhIWNxgtJHVj3GKm2pK4tohwcK38t401hWqFR_f7DuzmZkPBetw_G_TzETFdJRZnRNrHJy7N8ybK2ml9dKljM33xuZ0fAVse0eL14PjOfVhetk3N2TvOzw4_PrhdXTBxfzs5eJXADLNyk7eZvQrhmTYXTHfu9_RJun8XwK_I8IsaHcnqN-LmwDhSY4ZoR7hEgkyk-RIIfxLUBDzuBnDbSDXe7cOfJcNPwHrnF23el5ikJL94u3qNIpjm-IwUtmWG6E7zXoc-7e9crEBK7EtTQgK2xjS6l70ejS1IXw3DRMAbW7qDUPWZ3Q2XU5wdjtPmZ2AWG4alfPLHbxxXK0KJnY_bNDX4HdN__Ww" height="200" style=""></iframe>
