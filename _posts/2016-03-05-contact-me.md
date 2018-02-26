@@ -1,5 +1,5 @@
 ---
-datePublished: '2018-02-26T21:06:50.181Z'
+datePublished: '2018-02-26T21:20:36.478Z'
 description: >-
   Interested in my services? Let's connect. I would love to discuss your needs
   or brainstorm some ideas with you. I am even happy to give some advice. Just
@@ -9,7 +9,7 @@ via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2018-02-26T21:06:49.373Z'
+dateModified: '2018-02-26T21:20:36.122Z'
 sourcePath: _posts/2016-03-05-contact-me.md
 title: Contact Me
 hasPage: true
@@ -34,19 +34,4 @@ These days Circle Press Design, is run by it's original founder Kyle Carline. Ha
 
 ### Fill out the form to stay in touch
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyVkU0KgzAQRveeYph9CWqW0WUv0ANIbCINxB90lPb2zRgXLVipkMU3ZPIek0lU048tOFMg2YkuXGGZAISjjFs4huR1bX15ddYbSJWIZbxy3TAT0GuwjHgSQqfbkJlUNfyiShEGr-_20XtjxwI3DgpGKLFqfvuy075s15d9-Y4mzE8b811j_rdRnjbKXaM8-NN6Juq7jTrNdesIee8xbpu_rYUSsfmTpQR3lG-7t6q9" height="300" style=""></iframe>
-
-    var $form = $('form#test-form'),
-        url = 'https://script.google.com/macros/s/AKfycbwQtnhl3IaGqYwNVJMOeKrKde0KRIH-vuePJDUU9olV0LuxdTFu/exec'
-    
-    $('#submit-form').on('click', function(e) {
-      e.preventDefault();
-      var jqxhr = $.ajax({
-        url: url,
-        method: "GET",
-        dataType: "json",
-        data: $form.serializeObject()
-      }).success(
-        // do something
-      );
-    })
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtUVtr2zAUfs-vOPOLHWiswWjLgm0oNGFrzFrm3WjpgyIfX8CSHOm4aVr23yfZabaHPYnv03fROUoqbSQoLjEN7LCVLS1IL2qt6w4XtkGkIJsBJK3qBzrqUPK2C4AO_V_Qd1xgo7sSTRqsJs7gbmgNlmPAdiDS6miamoKsQFUmbLrKZgnzj8lms8QK0_bkfUIrSzDh719zSCFsiHq7ZGwi4-mtsdCSSS6Mtmxg75llV5vqILZ7me_uFRb5za_9-hzFywWvPxcf1-bny92eulx84dXmw4_Lp2In2ov79eYTw2cU4al63E8KpRaDREWxx_Yh_P-uwkfn84qYl-Xqyenz1hIqNNHREZ4BQprBqxMCYNwb9LJrrPjQUTQf6QpJNNFp6DN4BYnU6HIJ4d1t8c2FbHV5WILCPaxd3TUnHvne-e8pASCmBlVk0PZujLHSz6PdpjpdR2ExCIHWvnNRb5r5ySq470djtPnXOBJRuPKHN444li6G15PbtSfHf8n-AFG2yR0" height="200" style=""></iframe>
