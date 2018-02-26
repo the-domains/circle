@@ -1,5 +1,5 @@
 ---
-datePublished: '2018-02-26T21:24:46.311Z'
+datePublished: '2018-02-26T21:26:47.599Z'
 description: >-
   Interested in my services? Let's connect. I would love to discuss your needs
   or brainstorm some ideas with you. I am even happy to give some advice. Just
@@ -9,7 +9,7 @@ via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2018-02-26T21:24:45.939Z'
+dateModified: '2018-02-26T21:26:47.269Z'
 sourcePath: _posts/2016-03-05-contact-me.md
 title: Contact Me
 hasPage: true
@@ -34,4 +34,4 @@ These days Circle Press Design, is run by it's original founder Kyle Carline. Ha
 
 ### Fill out the form to stay in touch
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJydkluP0zAQhd_3V5i8JJU2MRJiEVUSgbStgEawIty0iAfXnlwkX1J7sqFd8d9xkm7gASTEkzWTc77j8SStjFVEMwVZ4Pq9ajFGE9fG1BJi1wBgkF8Qkra66_GsA8VaGRA8dr-KTjIOjZECbBZs5p6FQ99aEBNg3yMafTbNSUFeghYpnT_lFykdL-NPx23bIXGWZ0GD2Lk1pcPJiqTV1CHTgkmjYVILhizujDxWrZRBntLZ---QzhrVOlgYLyRDcPg_qKFhONRxBcibv2PG1-BGO8-b6o_vC5KR8IE7N5N5Awk3iirGrXG0p4-poy931ZHvB1UcbjWUxZsvw_Yp8NMVq1-Xz7f28-lmQFnwt6zaPfn07K488Pbqdrt7ReE78HCJnraeEWF4r0BjMtbua_jnPyD85n2jImFCbO68vmgdggYbnR3hJQGS5eTeCwmBpLMwyq6hYr3EaDW1p3eJlqEvyT1RgI0RaxLevCs_eMjeiOOaaBjI1sdd-91GY-7qx0wgJMEGdGTBdX6MKXKcx_iXkqaOwrLnHJx75FEPmtVi5WzMB2uN_d04NaJwMx6jcaoT5TGsnt0-fdniT_xjGBw" height="200" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJydkk1v00AQhu_9FVNf7EiNfUAUEdkWSE0ExIIK86UiDpv12F5pP5zdcU1S8d9Z22ngABLitJrR-z6vZ8ZpbawCzRRmget3StCSzLIxppG4dC0iBfkFQCp019NJh4oJGQAdul9FJxnH1sgKbRas557FfS8sVhNg1xMZfTLNSUFeikaDQui7yzSZFflFmozf5F_HregInOVZ0BJ1bpUkw9FWsdCJI6YrJo3GSV0xYsvOyEMtpAzyNJm9_w7prFHC4ZnxQjJCR_-DGlpGQ7OskXj7d8y4FG6087yp_vi-gAzCR-7cjOdDxNyoRDFujUtc8nJbH_huUMX-TmNZvPkybJ4iP16z5nX5fGM_H28HkgV_y-rtk0_P7ss9F9d3m-2rBL8jD8-x0-EzqAzvFWqKx9p9Df_8E4TfvG9UxKyq1vdeXwhHqNFGJ0d4BQhZDg9eCIBxZ3GU3WDNeknRYmpPO4nOA1_Bg78-taZaQXj7rvzgITtTHVagcYCNj7vxd43G3MWPmQAQU4s6sug6P8YUOc5j_JakaaKw7DlH5y496lGzOFs5G_PRWmN_N06NKFyPz2ic6lh5DGtmt08_X_An_igZOA" height="100" style=""></iframe>
