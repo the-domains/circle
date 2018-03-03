@@ -1,3 +1,16 @@
+layout_spectrum: 0.33272106146900965
+typography_spectrum: 0.20681507197383903
+color:
+  lightness: 0.3288325144335775
+  brandColors:
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
+  saturation: 0.1812576384354604
+  brandStrength: 0.2509189711625476
+  rhythmicContrast: 0.11558320906400534
 name: Circle Press Design
 analytics:
   twitter: circlepressdesign_twitter
@@ -16,18 +29,6 @@ author:
   name: Kyle Carline
   url: 'http://circlepress.design'
   email: circlepressdesign@gmail.com
-color:
-  lightness: 0.08657625213763354
-  brandColors:
-    - '#F2385A'
-    - '#F5A503'
-    - '#E9F1DF'
-    - '#4AD9D9'
-    - '#36B1BF'
-  saturation: 0.7244478700994191
-  brandStrength: 0.3691968269345562
-  rhythmicContrast: 0.4147856982299449
-layout_spectrum: 0.1927683792050264
 navigation:
   - id: eeefc06a-4d66-43c6-9187-fecb16176f53
     name: Logos
@@ -79,7 +80,6 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-typography_spectrum: 0.3290032295084162
 opengraph: {}
 title: Logos - Marketing - Website Stuff
 logo: >-
