@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Why You Should Update Your Resume Every Year - Author: Kyle Carline'
-dateModified: '2018-03-11T22:30:26.893Z'
-datePublished: '2018-03-11T22:30:27.730Z'
+dateModified: '2018-03-11T22:39:56.731Z'
+datePublished: '2018-03-11T22:39:57.633Z'
 title: Why You Should Update Your Resume Every Year
 author: []
 publisher: {}
