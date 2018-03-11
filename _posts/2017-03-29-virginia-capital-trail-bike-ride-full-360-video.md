@@ -67,8 +67,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/6CWuVw8T9F8'
 title: Virginia Capital Trail Bike Ride FULL (360 Video)
-datePublished: '2017-10-30T15:47:23.482Z'
-dateModified: '2017-10-30T15:47:22.703Z'
+datePublished: '2018-03-11T22:30:27.693Z'
+dateModified: '2018-03-11T22:30:26.893Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-29-virginia-capital-trail-bike-ride-full-360-video.md
