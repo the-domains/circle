@@ -42,8 +42,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/171813417'
 title: LightSource Website Video Ad - Short
-datePublished: '2018-03-11T22:30:27.713Z'
-dateModified: '2018-03-11T22:30:26.893Z'
+datePublished: '2018-03-11T22:39:57.632Z'
+dateModified: '2018-03-11T22:39:56.731Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-10-30-lightsource-website-video-ad-short.md
