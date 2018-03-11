@@ -58,8 +58,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://soundcloud.com/kylecarline'
 title: Kyle Carline
-datePublished: '2017-10-30T15:45:14.059Z'
-dateModified: '2017-10-30T15:45:13.433Z'
+datePublished: '2018-03-11T22:30:27.645Z'
+dateModified: '2018-03-11T22:30:26.893Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-17-kyle-carline.md
