@@ -1,12 +1,12 @@
 ---
-datePublished: '2018-03-11T22:30:27.721Z'
+datePublished: '2018-03-11T22:39:57.628Z'
 authors: []
 description: Get help with your digital & print communications.
 via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2018-03-11T22:30:26.893Z'
+dateModified: '2018-03-11T22:39:56.731Z'
 sourcePath: _posts/2016-03-05-digital-and-print-communications.md
 title: ''
 hasPage: true
