@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Super-duper qualified...
-dateModified: '2018-03-11T22:39:48.248Z'
-datePublished: '2018-03-11T22:39:48.638Z'
+dateModified: '2018-03-11T22:39:56.731Z'
+datePublished: '2018-03-11T22:39:57.620Z'
 title: ''
 author:
   - name: Erin Thomas-Foley
