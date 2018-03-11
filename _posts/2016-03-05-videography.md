@@ -1,5 +1,5 @@
 ---
-datePublished: '2018-03-11T22:30:27.712Z'
+datePublished: '2018-03-11T22:39:57.619Z'
 description: >-
   Video editing and motion graphics, specializing in logo stings and intros.
   Watch a few of my video projects at vimeo.com/kylecarline
@@ -9,7 +9,7 @@ inFeed: true
 publisher:
   name: Vimeo
   url: 'http://www.vimeo.com/kylecarline'
-dateModified: '2018-03-11T22:30:26.893Z'
+dateModified: '2018-03-11T22:39:56.731Z'
 sourcePath: _posts/2016-03-05-videography.md
 title: Videography
 hasPage: true
