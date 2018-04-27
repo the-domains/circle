@@ -1,12 +1,12 @@
 ---
-datePublished: '2018-03-11T22:39:57.628Z'
+datePublished: '2018-04-27T03:23:41.839Z'
 authors: []
 description: Get help with your digital & print communications.
 via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2018-03-11T22:39:56.731Z'
+dateModified: '2018-04-27T03:23:41.257Z'
 sourcePath: _posts/2016-03-05-digital-and-print-communications.md
 title: ''
 hasPage: true
@@ -23,7 +23,7 @@ Google Adwords certified with years of graphic design and website experience. Th
 
 Scroll down to see more and learn about Kyle...
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJydkk9LAzEQxe9-ijEHD8I2VVHR7q5IFQ_in4LgQaRkN9N0NJssSbp1_fRmt1IVLII5TcLvzeS9JC2sbPOtdDtJ4MpapRHGViLMrIMxuTLu7x16DxfoSRl4xMJT6CDToPNkDdwLhZAkOaS-dFQHCG2NGQv4FviLaMTqlOVbfBfS7afxxfnD-RPscmiEA9XPnJbrdlOSkMHJ0fH-weHwaDjaQGlh1KIbnAFDwzZh0UYlQgcdbGRKq6PZiMz6tZHTokDdcfvvpR3f0qQyl5OT60XxPrn5KXJYCfeKgYyaWqPbKJoJ7XEEMYLn57wzn_JVLn_FBt6VGeN8uVwOVu2F9OgaKtEPSlvxOqYgJP-66ODFs_x7f2PXpaQGfGh1HCTJ11q0p2Q0GRx1EqoUzJHUPGRsj8GSZJj31aeksE6iS_rdqbGdCoSO8D9uyddPzM_6ZLNfYt0RVT1SC5LZ3W1fr4xkQ8bjn-XRTWf0mz_ef-cPjTv5dA" height="1" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJydUk2P0zAUvPdXvM0B7a5IXVpa6EeCVl3EAbFsJSQOVVU59mvq4tiR7SZkWf47TtKWIlEh4dOzPfPezNizRPMq7syuwhA-aJ1KhLnmCBttYC4M8_tHg9bCPVqRKviKiRWuBqkCjRVawSNNEcIwhpllRuQOXJVjFDj87siOFrQ9DeIOuYXZ1XJ-f_flbgm3BApqIG1mrtmp3VpwiGA8etMfDHuj3vQCSlKV7uvBEQSogkswbyOjrgYNLmKYlt6sh2yadREnaYKyxvWfmJ4_iEWm3i_GH_fJ0-LTnySDGTXf0AmVrrWSlSdtqLQ4BR_BahXX5mekzeVfsYE1LAoIKcuy27an3KIpBEPbZTojuU-BcvJbaHdng_i8v9KnkosCrKukH8SFzSWtJkJJoXBaU0SWwhZFunVR8CqAUnC3baoDJdGGowmb3UTpmgVUevB_qCSnJybvmmSjv8T6gmb5NN0LHn1-aOrWSNQLiP-zxLupjZ75I4fvfIiU2kqxo7ZWQv-gz99wwairAzsTuLPEK0-qFtREeUry2DbuAFyfofzzlkJxXXbPD5-fYbm66eZ7u73-4Rlw_B2Ur5kUqNwEAkbDfJ-E_dFoOBwNBq_Hg95bXwYvGwIqmnhCLW0tsUDpuXYCzuzR3_-8mXZO2n4BkZRKuw" height="1" style=""></iframe>
 
 ---
 
