@@ -1,12 +1,12 @@
 ---
-datePublished: '2018-04-27T03:23:41.839Z'
+datePublished: '2018-05-10T18:13:22.422Z'
 authors: []
 description: Get help with your digital & print communications.
 via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2018-04-27T03:23:41.257Z'
+dateModified: '2018-05-10T18:13:21.994Z'
 sourcePath: _posts/2016-03-05-digital-and-print-communications.md
 title: ''
 hasPage: true
@@ -19,7 +19,7 @@ _type: Article
 ---
 Get help with your digital & print communications.
 
-Google Adwords certified with years of graphic design and website experience. The thing that makes Kyle and Circle Press Design stand out among all the other people you could work with is that he makes it personal. Kyle creates the content with you and is there together in every step of the project. Design logos, create ad campaigns, talk email strategy, or build a website. Let's get to know each other... let's make it personal.
+Google AdWords certified and an Unbounce Expert with years of graphic design and website experience. The thing that makes Kyle and Circle Press Design stand out among all the other people you could work with is that he makes it personal. Kyle creates the content with you and is there together in every step of the project. Design logos, create ad campaigns, talk email strategy, or build a website. Let's get to know each other... let's make it personal.
 
 Scroll down to see more and learn about Kyle...
 
