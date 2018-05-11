@@ -4,8 +4,8 @@ description: >-
   A landing page doesn’t have to look good, to perform well. If there is to be
   anything you can remember from this article, it should be that looks don’t
   matter as much as you think…
-dateModified: '2018-05-11T14:40:11.403Z'
-datePublished: '2018-05-11T14:40:11.916Z'
+dateModified: '2018-05-11T14:47:53.720Z'
+datePublished: '2018-05-11T14:47:54.315Z'
 title: Landing Page Design For Your Target Audience
 author: []
 publisher: {}
