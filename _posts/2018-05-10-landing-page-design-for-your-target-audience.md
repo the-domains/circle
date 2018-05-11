@@ -1,10 +1,11 @@
 ---
 inFeed: true
 description: >-
-  If there is to be anything you can remember from this article, it should be
-  that looks don’t matter as much as you think…
-dateModified: '2018-05-11T14:38:52.133Z'
-datePublished: '2018-05-11T14:38:52.780Z'
+  A landing page doesn’t have to look good, to perform well. If there is to be
+  anything you can remember from this article, it should be that looks don’t
+  matter as much as you think…
+dateModified: '2018-05-11T14:40:11.403Z'
+datePublished: '2018-05-11T14:40:11.916Z'
 title: Landing Page Design For Your Target Audience
 author: []
 publisher: {}
@@ -21,9 +22,7 @@ _type: Article
 
 ## How to conquer designs that convert
 
-> A landing page doesn't have to look good, to perform well.
-
-If there is to be anything you can remember from this article, it should be that looks don't matter as much as you think...
+A landing page doesn't have to look good, to perform well. If there is to be anything you can remember from this article, it should be that looks don't matter as much as you think...
 
 There are a few relative assumptions in the phrase, "A landing page doesn't have to look good, to perform well." This article will break down two major points in that phrase and address how any marketer can build a designed experience for their landing pages to perform best.
 
