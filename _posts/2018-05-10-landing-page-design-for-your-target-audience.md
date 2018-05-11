@@ -4,8 +4,8 @@ description: >-
   A landing page doesn’t have to look good, to perform well. If there is to be
   anything you can remember from this article, it should be that looks don’t
   matter as much as you think…
-dateModified: '2018-05-11T15:07:47.925Z'
-datePublished: '2018-05-11T15:07:49.377Z'
+dateModified: '2018-05-11T15:15:53.722Z'
+datePublished: '2018-05-11T15:15:54.837Z'
 title: Landing Page Design For Your Target Audience
 author: []
 publisher: {}
@@ -26,9 +26,9 @@ A landing page doesn't have to look good, to perform well. If there is to be any
 
 There are a few relative assumptions in the phrase, "A landing page doesn't have to look good, to perform well." This article will break down two major points in that phrase and address how any marketer can build a designed experience for their landing pages to perform best.
 
-We won't technically be focused on where your users are coming from or what stage of the funnel they are in. This is about how your page _looks_ and how you _think_ about landing page design. At this point you have all the items and data ready and you should use all the knowledge in your arsenal to build your page.
+We won't technically be focused on where your users are coming from or what stage of the marketing funnel they are in. This is about how your page _looks_ and how you _think_ about landing page design. At this point you have all the items and data ready and you should use all the knowledge in your arsenal to build your page.
 
-Let's talk about how you will arrange your data, words, images, and everything else on your page.
+In a way this article is the second step in a typical campaign process. Let's talk about how you will arrange your data, words, images, and everything else on your page. From data to brain to page.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4d59cf3-a900-4951-98e4-608e110e6e3d.png)
 
 You may have found yourself surprised because you thought your landing page had everything it needed and then it ended up leaving you confused as to why people weren't converting. The following will help you take a step in the shoes of your audience to get your page looking its best.
@@ -56,9 +56,9 @@ Things to point out in the example page:
 * There are no stock images used. You might think you need an image of some random happy fan crying with a poster in hand. If you have actual imagery of your subject, go with that. In this case we are using real poster images. (Alternatively you could A/B test a page with stock photos used.)
 * There is legible space between text, images, and objects. Don't place too many images near each other and don't squish titles with body copy. Give things room to flow.
 * There is no top menu to distract away from the goal. The user can basically do one thing and that is submit the form or leave.
-* There is nothing that is thrown in arbitrarily. Just because something worked on another page or campaign, like a trust logo, doesn't mean it is going to work on this page. Likewise, be aware when a client asks you to include something. Make sure it is for the benefit of the user not just the client. 
+* There is nothing that is thrown in arbitrarily. Just because something worked on another page or campaign, like a trust logo, doesn't mean it is going to work on this page. Likewise be aware when a client asks you to include something. Make sure it is for the benefit of the user not just the client. 
 
-Once you have all the items you need for your landing page, use what you know about your audience when arranging your landing page. The more you know about how your audience thinks, the more confident you will feel about the design of your page.
+Once you have all the items you need for your landing page, use what you know about your audience when arranging your page. The more you know about how your audience thinks, the more confident you will feel about the design of your page.
 
 ## - Judging Page Performance Based on Design
 
@@ -70,7 +70,7 @@ The reality is that you may encounter clients and pages with all sorts of differ
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzkEKwjAQQNGrhNlrpIioNAVd9AIVxGVMxk5gYtpJpOjplbj-8PhteIiNqLI4A1TKlI9aj2Gi99qlqDHe0etboeZznfHi51MCtQRfyMB2vwFFGEYqBprdAVSlzkk8ioFfdGxzNlC5VaVAWea09C_mwQnis2v1_6D7AscdLxY" height="275" style=""></iframe>
 
-But it could really be the best thing for the target audience. Some offers and products require much more information for users to feel confident to convert.
+But it could really be the best thing for the target audience. Some offers and products require much more information for users to feel confident to convert. So be aware that if you must include a lot of content, pay a attention to how easily or difficult it is to digest.
 
 Form fields are often regarded as the biggest factor that affect conversion rates. The more fields (first name, last name, email, mailing address, etc) you require, the less conversions you will get. There are tricks you can employ, like [multi-step forms][0] to make life easier for a user.
 
