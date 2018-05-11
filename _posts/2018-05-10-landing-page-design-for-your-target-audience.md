@@ -4,8 +4,8 @@ description: >-
   A landing page doesn’t have to look good, to perform well. If there is to be
   anything you can remember from this article, it should be that looks don’t
   matter as much as you think…
-dateModified: '2018-05-11T14:50:25.356Z'
-datePublished: '2018-05-11T14:50:26.275Z'
+dateModified: '2018-05-11T14:53:40.024Z'
+datePublished: '2018-05-11T14:53:41.474Z'
 title: Landing Page Design For Your Target Audience
 author: []
 publisher: {}
@@ -47,7 +47,7 @@ So now what? Can we just pile all of these things the client has given us, stack
 * Do any colors stand out to you? Use those as accents, like red for the form button.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c986e48b02ba30b427bef78b95bf18174d02b92.png)
 
-In my honest opinion I think this landing page is ugly. But it doesn't matter what I think, it matters what the audience thinks. It has everything they need to convert, a catching title, informative copy, and a very obvious form.
+In my honest opinion I think this landing page is ugly. But it doesn't matter what I think, it matters what the audience thinks. It has everything they need to convert, a catching title, informative copy, and a very obvious form. All because I looked at an image and used the blues and reds to justify the page design.
 
 Things to point out in the example page:
 
