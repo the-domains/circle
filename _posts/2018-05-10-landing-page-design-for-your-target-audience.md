@@ -4,8 +4,8 @@ description: >-
   A landing page doesn’t have to look good, to perform well. If there is to be
   anything you can remember from this article, it should be that looks don’t
   matter as much as you think…
-dateModified: '2018-05-11T14:54:12.583Z'
-datePublished: '2018-05-11T14:54:13.579Z'
+dateModified: '2018-05-11T14:54:46.157Z'
+datePublished: '2018-05-11T14:54:46.893Z'
 title: Landing Page Design For Your Target Audience
 author: []
 publisher: {}
@@ -29,7 +29,7 @@ There are a few relative assumptions in the phrase, "A landing page doesn't have
 We won't technically be focused on where your users are coming from or what stage of the funnel they are in. This is about how your page _looks_ and how you _think_ about landing page design. At this point you have all the items and data ready and you should use all the knowledge in your arsenal to build your page.
 
 Let's talk about how you will arrange your data, words, images, and everything else on your page.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/10bb1fa5-6232-4ad5-b33e-a301fb9e1d7c.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4d59cf3-a900-4951-98e4-608e110e6e3d.png)
 
 You may have found yourself surprised because you thought your landing page had everything it needed and then it ended up leaving you confused as to why people weren't converting. The following will help you take a step in the shoes of your audience to get your page looking its best.
 
