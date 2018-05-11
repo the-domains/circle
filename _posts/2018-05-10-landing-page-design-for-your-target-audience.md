@@ -4,8 +4,8 @@ description: >-
   A landing page doesn’t have to look good, to perform well. If there is to be
   anything you can remember from this article, it should be that looks don’t
   matter as much as you think…
-dateModified: '2018-05-11T14:54:46.157Z'
-datePublished: '2018-05-11T14:54:46.893Z'
+dateModified: '2018-05-11T14:58:00.296Z'
+datePublished: '2018-05-11T14:58:01.266Z'
 title: Landing Page Design For Your Target Audience
 author: []
 publisher: {}
@@ -33,6 +33,8 @@ Let's talk about how you will arrange your data, words, images, and everything e
 
 You may have found yourself surprised because you thought your landing page had everything it needed and then it ended up leaving you confused as to why people weren't converting. The following will help you take a step in the shoes of your audience to get your page looking its best.
 
+### Determine What Looks Good
+
 The first assumption to tackle is determining what looks good. Many factors are at play when someone decides what looks good versus what looks bad. The quickest way to make that decision is to ask yourself, "would my audience think this looks good?"
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzsEKAiEUQNFfkbcvh5xFxDiLgiBmFbOJdqZvfIKmqDX094WtLxzu4JasArKStQSqNZUD59Yl-mx1DBzDAw0X0XaX62kp99us03siB2x1ppKEft8BI3SWqgQhdsCad4zZYJbwi9qrUiQ0c9M8YMr7uJ5f3s86Iz7Hgf83xi-cnjB_" height="350" style=""></iframe>
@@ -54,6 +56,8 @@ Things to point out in the example page:
 * There are no stock images used. You might think you need an image of some random happy fan crying with a poster in hand. If you have actual imagery of your subject, go with that. In this case we are using real poster images. (Alternatively you could A/B test a page with stock photos used.)
 * There is legible space between text, images, and objects. Don't place too many images near each other and don't squish titles with body copy. Give things room to flow.
 * There is no top menu to distract away from the goal. The user can basically do one thing and that is submit the form or leave.
+
+### Judging Page Performance Based on Design
 
 The second assumption to clarify is performance. Campaigns come in all shapes and sizes, therefore it will change how performance is judged.
 
