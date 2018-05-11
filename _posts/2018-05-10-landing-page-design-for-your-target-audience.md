@@ -4,8 +4,8 @@ description: >-
   A landing page doesn’t have to look good, to perform well. If there is to be
   anything you can remember from this article, it should be that looks don’t
   matter as much as you think…
-dateModified: '2018-05-11T14:49:40.427Z'
-datePublished: '2018-05-11T14:49:41.137Z'
+dateModified: '2018-05-11T14:50:25.356Z'
+datePublished: '2018-05-11T14:50:26.275Z'
 title: Landing Page Design For Your Target Audience
 author: []
 publisher: {}
@@ -35,7 +35,7 @@ You may have found yourself surprised because you thought your landing page had 
 
 The first assumption to tackle is determining what looks good. Many factors are at play when someone decides what looks good versus what looks bad. The quickest way to make that decision is to ask yourself, "would my audience think this looks good?"
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtzrFuwjAUheFXse7uGhGGCtkeqFSIuhSxFDZjX8cXObFlB6K8fVFYmY_0nV-SL6ZHVotVEMYx160QHeUwf9jUC-yv6ESTulV7_PL18ney-fETCNhEbgwKNp8rYAGpC6OCplkDW7xdKg6Lgudoo6lVwWLyxQNmYkzT9z3Gky2Ig5bilaFl1tKwUNC_q-nIV-EL4eAqvyWceUgTn9Odu0QDf5OpH2TYvv09nKUwz5us_wHU81If" height="380" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzsEKAiEUQNFfkbcvh5xFxDiLgiBmFbOJdqZvfIKmqDX094WtLxzu4JasArKStQSqNZUD59Yl-mx1DBzDAw0X0XaX62kp99us03siB2x1ppKEft8BI3SWqgQhdsCad4zZYJbwi9qrUiQ0c9M8YMr7uJ5f3s86Iz7Hgf83xi-cnjB_" height="335" style=""></iframe>
 
 For example, let's say we are working on a name acquisition campaign for The Backstreet Boys. The goal is to get people signed up to receive a newsletter with the incentive to win a free poster. You have your images and/or video for the page, the form fields decided, a footer with all the legalese, and some body copy that the band's label has requested be used.
 
@@ -61,7 +61,7 @@ When it comes to judging your page's performance you are likely to turn to whate
 
 The reality is that you may encounter clients and pages with all sorts of different needs and you may think that everything they require is wrong and will look terrible...
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtzk8LwiAYgPGvIu99GSOiQoU69OcWFMSO5t6p4KZTa9Snb6xT0PmBHw-zTZQtkhQVB5NzSBtKtQ3mNVO-pdjesaZVNuX71uO17rceyGDrbDgsVnMgBq02mUO5XAOZqJ2PNUYOY1ROpsRh4oqJAiKd88P-4dxFRcROMPo9ECwIJomJ2Pwb0bZJdIi-08XvjXhaSQ6n87FiVI5aEB_cIkfG" height="350" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzkEKwjAQQNGrhNlrpIioNAVd9AIVxGVMxk5gYtpJpOjplbj-8PhteIiNqLI4A1TKlI9aj2Gi99qlqDHe0etboeZznfHi51MCtQRfyMB2vwFFGEYqBprdAVSlzkk8ioFfdGxzNlC5VaVAWea09C_mwQnis2v1_6D7AscdLxY" height="275" style=""></iframe>
 
 But it could really be the best thing for the target audience. Some offers and products require much more information for users to feel confident to convert.
 
