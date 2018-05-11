@@ -4,8 +4,8 @@ description: >-
   A landing page doesn’t have to look good, to perform well. If there is to be
   anything you can remember from this article, it should be that looks don’t
   matter as much as you think…
-dateModified: '2018-05-11T14:53:40.024Z'
-datePublished: '2018-05-11T14:53:41.474Z'
+dateModified: '2018-05-11T14:54:10.378Z'
+datePublished: '2018-05-11T14:54:11.059Z'
 title: Landing Page Design For Your Target Audience
 author: []
 publisher: {}
@@ -35,7 +35,7 @@ You may have found yourself surprised because you thought your landing page had 
 
 The first assumption to tackle is determining what looks good. Many factors are at play when someone decides what looks good versus what looks bad. The quickest way to make that decision is to ask yourself, "would my audience think this looks good?"
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzsEKAiEUQNFfkbcvh5xFxDiLgiBmFbOJdqZvfIKmqDX094WtLxzu4JasArKStQSqNZUD59Yl-mx1DBzDAw0X0XaX62kp99us03siB2x1ppKEft8BI3SWqgQhdsCad4zZYJbwi9qrUiQ0c9M8YMr7uJ5f3s86Iz7Hgf83xi-cnjB_" height="335" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzsEKAiEUQNFfkbcvh5xFxDiLgiBmFbOJdqZvfIKmqDX094WtLxzu4JasArKStQSqNZUD59Yl-mx1DBzDAw0X0XaX62kp99us03siB2x1ppKEft8BI3SWqgQhdsCad4zZYJbwi9qrUiQ0c9M8YMr7uJ5f3s86Iz7Hgf83xi-cnjB_" height="350" style=""></iframe>
 
 For example, let's say we are working on a name acquisition campaign for The Backstreet Boys. The goal is to get people signed up to receive a newsletter with the incentive to win a free poster. You have your images and/or video for the page, the form fields decided, a footer with all the legalese, and some body copy that the band's label has requested be used.
 
