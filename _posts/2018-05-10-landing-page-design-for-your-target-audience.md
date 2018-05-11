@@ -1,10 +1,10 @@
 ---
 inFeed: true
 description: >-
-  If there is to be anything you can remember from this, it should be the
-  following…
-dateModified: '2018-05-11T14:19:23.845Z'
-datePublished: '2018-05-11T14:19:24.710Z'
+  If there is to be anything you can remember from this article, it should be
+  that looks don’t matter as much as you think…
+dateModified: '2018-05-11T14:38:52.133Z'
+datePublished: '2018-05-11T14:38:52.780Z'
 title: Landing Page Design For Your Target Audience
 author: []
 publisher: {}
@@ -21,9 +21,9 @@ _type: Article
 
 ## How to conquer designs that convert
 
-If there is to be anything you can remember from this, it should be the following...
-
 > A landing page doesn't have to look good, to perform well.
+
+If there is to be anything you can remember from this article, it should be that looks don't matter as much as you think...
 
 There are a few relative assumptions in the phrase, "A landing page doesn't have to look good, to perform well." This article will break down two major points in that phrase and address how any marketer can build a designed experience for their landing pages to perform best.
 
@@ -36,7 +36,7 @@ You may have found yourself surprised because you thought your landing page had 
 
 The first assumption to tackle is determining what looks good. Many factors are at play when someone decides what looks good versus what looks bad. The quickest way to make that decision is to ask yourself, "would my audience think this looks good?"
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtzrFuwjAUheFXse7uGhGGCtkeqFSIuhSxFDZjX8cXObFlB6K8fVFYmY_0nV-SL6ZHVotVEMYx160QHeUwf9jUC-yv6ESTulV7_PL18ney-fETCNhEbgwKNp8rYAGpC6OCplkDW7xdKg6Lgudoo6lVwWLyxQNmYkzT9z3Gky2Ig5bilaFl1tKwUNC_q-nIV-EL4eAqvyWceUgTn9Odu0QDf5OpH2TYvv09nKUwz5us_wHU81If" height="332" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtzrFuwjAUheFXse7uGhGGCtkeqFSIuhSxFDZjX8cXObFlB6K8fVFYmY_0nV-SL6ZHVotVEMYx160QHeUwf9jUC-yv6ESTulV7_PL18ney-fETCNhEbgwKNp8rYAGpC6OCplkDW7xdKg6Lgudoo6lVwWLyxQNmYkzT9z3Gky2Ig5bilaFl1tKwUNC_q-nIV-EL4eAqvyWceUgTn9Odu0QDf5OpH2TYvv09nKUwz5us_wHU81If" height="350" style=""></iframe>
 
 For example, let's say we are working on a name acquisition campaign for The Backstreet Boys. The goal is to get people signed up to receive a newsletter with the incentive to win a free poster. You have your images and/or video for the page, the form fields decided, a footer with all the legalese, and some body copy that the band's label has requested be used.
 
@@ -62,7 +62,7 @@ When it comes to judging your page's performance you are likely to turn to whate
 
 The reality is that you may encounter clients and pages with all sorts of different needs and you may think that everything they require is wrong and will look terrible...
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtzk8LwiAYgPGvIu99GSOiQoU69OcWFMSO5t6p4KZTa9Snb6xT0PmBHw-zTZQtkhQVB5NzSBtKtQ3mNVO-pdjesaZVNuX71uO17rceyGDrbDgsVnMgBq02mUO5XAOZqJ2PNUYOY1ROpsRh4oqJAiKd88P-4dxFRcROMPo9ECwIJomJ2Pwb0bZJdIi-08XvjXhaSQ6n87FiVI5aEB_cIkfG" height="296" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtzk8LwiAYgPGvIu99GSOiQoU69OcWFMSO5t6p4KZTa9Snb6xT0PmBHw-zTZQtkhQVB5NzSBtKtQ3mNVO-pdjesaZVNuX71uO17rceyGDrbDgsVnMgBq02mUO5XAOZqJ2PNUYOY1ROpsRh4oqJAiKd88P-4dxFRcROMPo9ECwIJomJ2Pwb0bZJdIi-08XvjXhaSQ6n87FiVI5aEB_cIkfG" height="350" style=""></iframe>
 
 But it could really be the best thing for the target audience. Some offers and products require much more information for users to feel confident to convert.
 
