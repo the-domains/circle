@@ -4,8 +4,8 @@ description: >-
   A landing page doesn’t have to look good, to perform well. If there is to be
   anything you can remember from this article, it should be that looks don’t
   matter as much as you think…
-dateModified: '2018-05-14T17:57:49.420Z'
-datePublished: '2018-05-14T17:57:50.558Z'
+dateModified: '2018-05-14T17:58:48.301Z'
+datePublished: '2018-05-14T17:58:48.996Z'
 title: Landing Page Design For Your Target Audience
 author: []
 publisher: {}
@@ -39,7 +39,7 @@ The first assumption to tackle is determining what looks good. Many factors are 
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzSckss7PJTCtKzE1VKC5KtlXKKCkpKLbS10_PLMio1EvOz9VPzU1KTdE3zk838Ax0TiuOighOLijzzshUUijPTCnJsFUysTBQUshIzUzPKLFVMjY2UlIAm-eUX5SSWmSrZKBkZ6MPsQLIAFkIAFIVJvQ" height="350" style=""></iframe>
 
-For example, let's say we are working on a name acquisition campaign for The Backstreet Boys. The goal is to get people signed up to receive a newsletter with the incentive to win a free poster. You have your images and/or video for the page, the form fields decided, a footer with all the legalese, and some body copy that the band's label has requested be used.
+For example, let's say we are working on a name acquisition campaign for The Backstreet Boys. We have gathered all the items necessary for the page. The goal is to get people signed up to receive a newsletter with the incentive to win a free poster. You have your images and/or video for the page, the form fields decided, a footer with all the legalese, and some body copy that the band's label has requested be used.
 
 So now what? Can we just pile all of these things the client has given us, stacks-on-stacks into the landing page? Maybe...but first ask yourself what you think the audience would like. If you're feeling stumped take inspiration from the images provided.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91b7327a-ee80-44c3-a44d-72bfd20eefba.jpg)
