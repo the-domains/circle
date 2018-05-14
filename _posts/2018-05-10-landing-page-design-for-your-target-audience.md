@@ -4,8 +4,8 @@ description: >-
   A landing page doesn’t have to look good, to perform well. If there is to be
   anything you can remember from this article, it should be that looks don’t
   matter as much as you think…
-dateModified: '2018-05-14T17:58:48.301Z'
-datePublished: '2018-05-14T17:58:48.996Z'
+dateModified: '2018-05-14T18:57:21.929Z'
+datePublished: '2018-05-14T18:57:22.766Z'
 title: Landing Page Design For Your Target Audience
 author: []
 publisher: {}
@@ -37,7 +37,7 @@ You may have found yourself surprised because you thought your landing page had 
 
 The first assumption to tackle is determining what looks good. Many factors are at play when someone decides what looks good versus what looks bad. The quickest way to make that decision is to ask yourself, "would my audience think this looks good?" Make sure you know a good deal about your target audience or else you are wasting your digital life away.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzSckss7PJTCtKzE1VKC5KtlXKKCkpKLbS10_PLMio1EvOz9VPzU1KTdE3zk838Ax0TiuOighOLijzzshUUijPTCnJsFUysTBQUshIzUzPKLFVMjY2UlIAm-eUX5SSWmSrZKBkZ6MPsQLIAFkIAFIVJvQ" height="350" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwljrEOgjAUAH-lvsRRW8XBIGXQyTgZF-OG5dG-hNKmfUH5e4lsN91d1dIoMk89amD88qbpyQ6lwYExncSHWnblTqm1WJGPIXEzMNQVdanxKHIyGhxzzKWUlqKbtiZ4if6NrSyCVdf7pcuv58PE8eYIFp-Gw1GBcEjWsYai2IP4-84htZg0qLkgl8QM82H9A-rBOAg" height="350" style=""></iframe>
 
 For example, let's say we are working on a name acquisition campaign for The Backstreet Boys. We have gathered all the items necessary for the page. The goal is to get people signed up to receive a newsletter with the incentive to win a free poster. You have your images and/or video for the page, the form fields decided, a footer with all the legalese, and some body copy that the band's label has requested be used.
 
@@ -68,7 +68,7 @@ When it comes to judging your page's performance you are likely to turn to whate
 
 The reality is that you may encounter clients and pages with all sorts of different needs and you may think that everything they require is wrong and will look terrible...
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzSckss7PJTCtKzE1VKC5KtlXKKCkpKLbS10_PLMio1EvOz9VPzU1KTdGPLMkwqgovTA1JKXTMV1Ioz0wpybBVMrEwUFLISM1MzyixVTIys1RSABvllF-Uklpkq2SgZGejDzEdyADZBQCeMSWL" height="275" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzkEKwjAQQNGrxAGXmlhEtG0KegZBXMZmbAaapE0HtZ7eYHd_9fi1pZeYeO5RA-OHN6anLpQtBsZUiTdZduVOqbVYkR9iYhMYmpqeyXgUU2o1OOZhKqXsaHDzto1eon-glXd2xfc24tWO5wgLpWF_VCAcUudYQ3E4gfhTl5gsJg0q43LRc-S55gfheTaf" height="275" style=""></iframe>
 
 But it could really be the best thing for the target audience. Some offers and products require much more information for users to feel confident to convert. So be aware that if you must include a lot of content, pay attention to how easily or difficult it is to digest.
 
