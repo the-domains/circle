@@ -4,8 +4,8 @@ description: >-
   A landing page doesn’t have to look good, to perform well. If there is to be
   anything you can remember from this article, it should be that looks don’t
   matter as much as you think…
-dateModified: '2018-05-11T15:15:53.722Z'
-datePublished: '2018-05-11T15:15:54.837Z'
+dateModified: '2018-05-14T17:49:34.162Z'
+datePublished: '2018-05-14T17:49:34.945Z'
 title: Landing Page Design For Your Target Audience
 author: []
 publisher: {}
@@ -20,7 +20,7 @@ _type: Article
 ---
 # Landing Page Design For Your Target Audience
 
-## How to conquer designs that convert
+## Conquer layout, content, & user experience that converts
 
 A landing page doesn't have to look good, to perform well. If there is to be anything you can remember from this article, it should be that looks don't matter as much as you think...
 
@@ -37,7 +37,7 @@ You may have found yourself surprised because you thought your landing page had 
 
 The first assumption to tackle is determining what looks good. Many factors are at play when someone decides what looks good versus what looks bad. The quickest way to make that decision is to ask yourself, "would my audience think this looks good?" Make sure you know a good deal about your target audience or else you are wasting your digital life away.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzsEKAiEUQNFfkbcvh5xFxDiLgiBmFbOJdqZvfIKmqDX094WtLxzu4JasArKStQSqNZUD59Yl-mx1DBzDAw0X0XaX62kp99us03siB2x1ppKEft8BI3SWqgQhdsCad4zZYJbwi9qrUiQ0c9M8YMr7uJ5f3s86Iz7Hgf83xi-cnjB_" height="350" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzSckss7PJTCtKzE1VKC5KtlXKKCkpKLbS10_PLMio1EvOz9VPzU1KTdE3zk838Ax0TiuOighOLijzzshUUijPTCnJsFUysTBQUshIzUzPKLFVMjY2UlIAm-eUX5SSWmSrZKBkZ6MPsQLIAFkIAFIVJvQ" height="350" style=""></iframe>
 
 For example, let's say we are working on a name acquisition campaign for The Backstreet Boys. The goal is to get people signed up to receive a newsletter with the incentive to win a free poster. You have your images and/or video for the page, the form fields decided, a footer with all the legalese, and some body copy that the band's label has requested be used.
 
@@ -56,7 +56,7 @@ Things to point out in the example page:
 * There are no stock images used. You might think you need an image of some random happy fan crying with a poster in hand. If you have actual imagery of your subject, go with that. In this case we are using real poster images. (Alternatively you could A/B test a page with stock photos used.)
 * There is legible space between text, images, and objects. Don't place too many images near each other and don't squish titles with body copy. Give things room to flow.
 * There is no top menu to distract away from the goal. The user can basically do one thing and that is submit the form or leave.
-* There is nothing that is thrown in arbitrarily. Just because something worked on another page or campaign, like a trust logo, doesn't mean it is going to work on this page. Likewise be aware when a client asks you to include something. Make sure it is for the benefit of the user not just the client. 
+* There is nothing that is thrown in arbitrarily. Just because something worked on another page or campaign, like a trust logo, doesn't mean it is going to work on this page. Likewise be aware when a client asks you to include something. Make sure it is for the benefit of the user not just the client.
 
 Once you have all the items you need for your landing page, use what you know about your audience when arranging your page. The more you know about how your audience thinks, the more confident you will feel about the design of your page.
 
@@ -68,19 +68,19 @@ When it comes to judging your page's performance you are likely to turn to whate
 
 The reality is that you may encounter clients and pages with all sorts of different needs and you may think that everything they require is wrong and will look terrible...
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzkEKwjAQQNGrhNlrpIioNAVd9AIVxGVMxk5gYtpJpOjplbj-8PhteIiNqLI4A1TKlI9aj2Gi99qlqDHe0etboeZznfHi51MCtQRfyMB2vwFFGEYqBprdAVSlzkk8ioFfdGxzNlC5VaVAWea09C_mwQnis2v1_6D7AscdLxY" height="275" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzSckss7PJTCtKzE1VKC5KtlXKKCkpKLbS10_PLMio1EvOz9VPzU1KTdGPLMkwqgovTA1JKXTMV1Ioz0wpybBVMrEwUFLISM1MzyixVTIys1RSABvllF-Uklpkq2SgZGejDzEdyADZBQCeMSWL" height="275" style=""></iframe>
 
-But it could really be the best thing for the target audience. Some offers and products require much more information for users to feel confident to convert. So be aware that if you must include a lot of content, pay a attention to how easily or difficult it is to digest.
+But it could really be the best thing for the target audience. Some offers and products require much more information for users to feel confident to convert. So be aware that if you must include a lot of content, pay attention to how easily or difficult it is to digest.
 
 Form fields are often regarded as the biggest factor that affect conversion rates. The more fields (first name, last name, email, mailing address, etc) you require, the less conversions you will get. There are tricks you can employ, like [multi-step forms][0] to make life easier for a user.
 
-Don't get caught up in thinking that your page isn't converting enough because it doesn't have a progress scroll bar, text animations, or objects made by a real-life graphic designer. Your measure of success should be based on making sure you have given the user everything they need to know, and then displayed that in a comfortable way.
+Don't get caught up in thinking that your page isn't converting enough because it doesn't have a progress scroll bar, text animations, or objects made by a real-life graphic designer. **Your measure of success should be based on making sure you have given the user everything they need to know, and then displayed that in a comfortable way.**
 
 So go and look at your landing page. Did you give the audience everything they need? Did you answer any possible questions they may have? If you missed something, then your page is _not_ performing well.
 
 Pages (and clients) can get complicated and you do have to pay close attention to a lot of different things when building a page, even more than what is covered in this article. But if you have to produce some less-than-tasteful LP designs, use the facts and your best judgement. Have no fear as long as the page design is catered to fit the needs of the target audience.
 
-Author's Bio: Kyle Carline is the founder of Circle Press Design and a freelance graphic designer specializing in logos and digital marketing. He helps individuals and small businesses realize their potential through digital media and encouraging coffee meetings. [Contact him][1] or follow on [Twitter][2] to learn more.
+**- Author's Bio:** Kyle Carline is the founder of Circle Press Design and a freelance graphic designer specializing in logos and digital marketing. He helps individuals and small businesses realize their potential through digital media and encouraging coffee meetings. [Contact him][1] or follow on [Twitter][2] to learn more.
 
 The landing page example used in this article was accomplished with [Unbounce.com][3]
 
