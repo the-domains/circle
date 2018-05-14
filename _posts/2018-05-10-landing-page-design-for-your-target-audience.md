@@ -4,8 +4,8 @@ description: >-
   A landing page doesn’t have to look good, to perform well. If there is to be
   anything you can remember from this article, it should be that looks don’t
   matter as much as you think…
-dateModified: '2018-05-14T17:49:34.162Z'
-datePublished: '2018-05-14T17:49:34.945Z'
+dateModified: '2018-05-14T17:57:49.420Z'
+datePublished: '2018-05-14T17:57:50.558Z'
 title: Landing Page Design For Your Target Audience
 author: []
 publisher: {}
@@ -72,7 +72,7 @@ The reality is that you may encounter clients and pages with all sorts of differ
 
 But it could really be the best thing for the target audience. Some offers and products require much more information for users to feel confident to convert. So be aware that if you must include a lot of content, pay attention to how easily or difficult it is to digest.
 
-Form fields are often regarded as the biggest factor that affect conversion rates. The more fields (first name, last name, email, mailing address, etc) you require, the less conversions you will get. There are tricks you can employ, like [multi-step forms][0] to make life easier for a user.
+Take form fields for example, some campaigns require a lot of fields for a user to fill in and it can get daunting. Don't be afraid of getting creative with how you organize your forms on the page. There are tricks you can employ, like [multi-step forms][0] to make life easier for a user. Test some variants on where your form lives on the page, above the fold, below body copy, floating on scroll, there are plenty of possibilities to try.
 
 Don't get caught up in thinking that your page isn't converting enough because it doesn't have a progress scroll bar, text animations, or objects made by a real-life graphic designer. **Your measure of success should be based on making sure you have given the user everything they need to know, and then displayed that in a comfortable way.**
 
