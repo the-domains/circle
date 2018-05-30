@@ -1,17 +1,21 @@
 ---
-datePublished: '2018-03-11T22:39:57.636Z'
+datePublished: '2018-05-30T15:40:19.450Z'
 description: >-
-  Interested in my services? Let's connect. I would love to discuss your needs
-  or brainstorm some ideas with you. I am even happy to give some advice. Just
-  shoot me an email or give me a call & we can get the ball rolling.
-  circlepressdesign@gmail.com (804) 251-0040
+  Circle Press Design originally began as a t-shirt printing service. The goal
+  was to give a fully customized experience for groups who need shirts designed
+  and printed. Focusing on a great design conversation to produce something
+  unique and wearable. The name Circle Press Design is adapted from the printing
+  process, in which the printing arms rotate in a circle pausing at each step to
+  print a color and move on to complete the design. In the same way Circle Press
+  Design wants to be with its clients and customers at each step of the process
+  until the product is complete.
 via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2018-03-11T22:39:56.731Z'
+dateModified: '2018-05-30T15:40:19.004Z'
 sourcePath: _posts/2016-03-05-contact-me.md
-title: Contact Me
+title: About Circle Press Design
 hasPage: true
 author: []
 starred: false
@@ -20,11 +24,7 @@ url: contact-me/index.html
 _type: Article
 
 ---
-# Contact Me
-
-Interested in my services? Let's connect. I would love to discuss your needs or brainstorm some ideas with you. I am even happy to give some advice. Just shoot me an email or give me a call & we can get the ball rolling. circlepressdesign@gmail.com (804) 251-0040
-
-## About Circle Press Design
+# About Circle Press Design
 
 Circle Press Design originally began as a t-shirt printing service. The goal was to give a fully customized experience for groups who need shirts designed and printed. Focusing on a great design conversation to produce something unique and wearable. The name Circle Press Design is adapted from the printing process, in which the printing arms rotate in a circle pausing at each step to print a color and move on to complete the design. In the same way Circle Press Design wants to be with its clients and customers at each step of the process until the product is complete.
 
