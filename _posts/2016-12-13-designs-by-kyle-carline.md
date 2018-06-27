@@ -13,8 +13,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.canva.com/circlepressdesign'
 title: Designs by Kyle Carline
-datePublished: '2018-03-11T22:39:57.592Z'
-dateModified: '2018-03-11T22:39:56.731Z'
+datePublished: '2018-06-27T13:28:49.305Z'
+dateModified: '2018-06-27T13:28:48.583Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-designs-by-kyle-carline.md
