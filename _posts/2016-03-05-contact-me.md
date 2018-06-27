@@ -1,5 +1,5 @@
 ---
-datePublished: '2018-06-27T13:28:49.309Z'
+datePublished: '2018-06-27T13:34:51.305Z'
 description: >-
   Circle Press Design originally began as a t-shirt printing service. The goal
   was to give a fully customized experience for groups who need shirts designed
@@ -13,7 +13,7 @@ via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2018-06-27T13:28:48.583Z'
+dateModified: '2018-06-27T13:34:50.067Z'
 sourcePath: _posts/2016-03-05-contact-me.md
 title: About Circle Press Design
 hasPage: true
