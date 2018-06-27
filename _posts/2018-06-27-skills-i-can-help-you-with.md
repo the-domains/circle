@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Something not listed that you need? Try me! I love learning new platforms and
   programs!
-dateModified: '2018-06-27T13:32:35.326Z'
-datePublished: '2018-06-27T13:32:35.845Z'
+dateModified: '2018-06-27T13:34:50.067Z'
+datePublished: '2018-06-27T13:34:51.305Z'
 title: Skills I Can Help You With
 author: []
 publisher: {}
