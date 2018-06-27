@@ -3,15 +3,15 @@ inFeed: true
 description: >-
   Something not listed that you need? Try me! I love learning new platforms and
   programs!
-dateModified: '2018-06-27T13:28:27.931Z'
-datePublished: '2018-06-27T13:28:29.288Z'
+dateModified: '2018-06-27T13:28:48.583Z'
+datePublished: '2018-06-27T13:28:49.296Z'
 title: Skills I Can Help You With
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-06-27-skills-i-can-help-you-with.md
 starred: false
 datePublishedOriginal: '2018-06-27T13:28:29.288Z'
-sourcePath: _posts/2018-06-27-skills-i-can-help-you-with.md
 _type: Blurb
 
 ---
