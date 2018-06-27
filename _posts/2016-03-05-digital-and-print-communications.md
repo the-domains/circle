@@ -1,14 +1,14 @@
 ---
-datePublished: '2018-05-10T18:13:22.422Z'
+datePublished: '2018-06-27T13:19:50.369Z'
 authors: []
 description: Get help with your digital & print communications.
 via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2018-05-10T18:13:21.994Z'
+dateModified: '2018-06-27T13:19:49.987Z'
 sourcePath: _posts/2016-03-05-digital-and-print-communications.md
-title: ''
+title: Hey I'm Kyle!
 hasPage: true
 author: []
 starred: true
@@ -17,13 +17,13 @@ url: digital-and-print-communications/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6469b073-eb47-45c5-bb4e-78569682f600.png)
+
 Get help with your digital & print communications.
 
 Google AdWords certified and an Unbounce Expert with years of graphic design and website experience. The thing that makes Kyle and Circle Press Design stand out among all the other people you could work with is that he makes it personal. Kyle creates the content with you and is there together in every step of the project. Design logos, create ad campaigns, talk email strategy, or build a website. Let's get to know each other... let's make it personal.
 
 Scroll down to see more and learn about Kyle...
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJydUk2P0zAUvPdXvM0B7a5IXVpa6EeCVl3EAbFsJSQOVVU59mvq4tiR7SZkWf47TtKWIlEh4dOzPfPezNizRPMq7syuwhA-aJ1KhLnmCBttYC4M8_tHg9bCPVqRKviKiRWuBqkCjRVawSNNEcIwhpllRuQOXJVjFDj87siOFrQ9DeIOuYXZ1XJ-f_flbgm3BApqIG1mrtmp3VpwiGA8etMfDHuj3vQCSlKV7uvBEQSogkswbyOjrgYNLmKYlt6sh2yadREnaYKyxvWfmJ4_iEWm3i_GH_fJ0-LTnySDGTXf0AmVrrWSlSdtqLQ4BR_BahXX5mekzeVfsYE1LAoIKcuy27an3KIpBEPbZTojuU-BcvJbaHdng_i8v9KnkosCrKukH8SFzSWtJkJJoXBaU0SWwhZFunVR8CqAUnC3baoDJdGGowmb3UTpmgVUevB_qCSnJybvmmSjv8T6gmb5NN0LHn1-aOrWSNQLiP-zxLupjZ75I4fvfIiU2kqxo7ZWQv-gz99wwairAzsTuLPEK0-qFtREeUry2DbuAFyfofzzlkJxXXbPD5-fYbm66eZ7u73-4Rlw_B2Ur5kUqNwEAkbDfJ-E_dFoOBwNBq_Hg95bXwYvGwIqmnhCLW0tsUDpuXYCzuzR3_-8mXZO2n4BkZRKuw" height="1" style=""></iframe>
 
 ---
 
