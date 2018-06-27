@@ -1,8 +1,8 @@
 ---
 keywords: []
 title: The Logo Quilt
-datePublished: '2018-06-27T13:28:49.295Z'
-dateModified: '2018-06-27T13:28:48.583Z'
+datePublished: '2018-06-27T13:34:51.295Z'
+dateModified: '2018-06-27T13:34:50.067Z'
 publisher: {}
 author:
   - name: ''
