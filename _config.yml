@@ -1,3 +1,16 @@
+layout_spectrum: 0.006177576588429879
+typography_spectrum: 0.20244920242042974
+color:
+  lightness: 0.49267472749778835
+  brandColors:
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
+  saturation: 0.7837900459362508
+  brandStrength: 0.03076700340135779
+  rhythmicContrast: 0.7794830157156887
 name: Circle Press Design
 analytics:
   google: UA-49634017-1
@@ -12,17 +25,6 @@ author:
   name: Kyle Carline
   url: 'http://circlepress.design'
   email: circlepressdesign@gmail.com
-color:
-  lightness: 0.3288325144335775
-  brandColors:
-    - '#595241'
-    - '#B8AE9C'
-    - '#FFFFFF'
-    - '#ACCFCC'
-    - '#8A0917'
-  saturation: 0.1812576384354604
-  brandStrength: 0.2509189711625476
-  rhythmicContrast: 0.11558320906400534
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -58,7 +60,6 @@ navigation:
   - name: Videos
     id: 82b63a53-6e43-47bf-9bd7-a647445d36ca
     type: content
-layout_spectrum: 0.33272106146900965
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a574b4bc-9413-4421-8f2f-0341fd3f6909.jpg
 content_rating:
@@ -75,7 +76,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.20681507197383903
 opengraph: {}
 title: Grow Your Brand With Good Marketing & Digital Design
 logo: >-
