@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Something not listed that you need? Try me! I love learning new platforms and
   programs!
-dateModified: '2018-06-27T13:34:50.067Z'
-datePublished: '2018-06-27T13:34:51.305Z'
+dateModified: '2018-06-29T14:53:02.458Z'
+datePublished: '2018-06-29T14:53:02.797Z'
 title: Skills I Can Help You With
 author: []
 publisher: {}
@@ -24,7 +24,7 @@ _type: Blurb
 * Unbounce (landing pages)
 * MailChimp, Litmus, PostUp (email creation)
 * Facebook Ads (Digital Advertising)
-* Google AdWords (Digital Search/Display Advertising)
+* Google Ads (Digital Search/Display Advertising)
 * Bing Ads (Digital Search/Display Advertising)
 * Basic HTML/CSS/Javascript editing capabilities
 * SEO (Content Creation)
