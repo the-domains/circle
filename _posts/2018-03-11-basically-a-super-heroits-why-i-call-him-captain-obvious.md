@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Basically a super hero...It's why I call him captain obvious.
-dateModified: '2018-06-27T13:34:50.067Z'
-datePublished: '2018-06-27T13:34:51.283Z'
+dateModified: '2018-06-29T14:53:27.188Z'
+datePublished: '2018-06-29T14:53:27.979Z'
 title: ''
 author:
   - name: Liz Carline
