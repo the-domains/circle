@@ -2,8 +2,8 @@
 isBasedOnUrl: ''
 keywords: []
 title: About Kyle
-datePublished: '2018-06-27T13:34:51.306Z'
-dateModified: '2018-06-27T13:34:50.067Z'
+datePublished: '2018-06-29T14:53:27.800Z'
+dateModified: '2018-06-29T14:53:27.188Z'
 publisher: {}
 author:
   - name: ''
