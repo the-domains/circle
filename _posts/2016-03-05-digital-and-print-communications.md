@@ -1,12 +1,12 @@
 ---
-datePublished: '2018-06-29T14:52:43.738Z'
+datePublished: '2018-06-29T14:53:27.954Z'
 authors: []
 description: Get help with your digital & print communications.
 via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2018-06-29T14:52:43.398Z'
+dateModified: '2018-06-29T14:53:27.188Z'
 sourcePath: _posts/2016-03-05-digital-and-print-communications.md
 title: Hey I'm Kyle!
 hasPage: true
