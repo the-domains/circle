@@ -1,5 +1,5 @@
 ---
-datePublished: '2018-07-19T01:56:01.125Z'
+datePublished: '2018-07-19T02:03:08.507Z'
 authors: []
 description: >-
   Google Ads certified and an Unbounce Expert with years of graphic design and
@@ -11,7 +11,7 @@ via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2018-07-19T01:56:00.587Z'
+dateModified: '2018-07-19T02:03:07.907Z'
 sourcePath: _posts/2016-03-05-digital-and-print-communications.md
 title: >-
   Other marketers can do the same things I do. But they can’t think the way I
@@ -26,7 +26,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6469b073-eb47-45c5-bb4e-78569682f600.png)
 
-## Other marketers can do the same things I do. But they can't think the way I can.
+# Other marketers can do the same things I do. But they can't think the way I can.
 
 Google Ads certified and an Unbounce Expert with years of graphic design and website experience. Making things personal to give you every bit of attention you deserve. Creating content with you and there together in every step of the project. Design logos, create ad campaigns, talk email strategy, or build a website. Let's get to know each other... let's make it personal.
 
