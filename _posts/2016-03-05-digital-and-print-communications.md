@@ -1,5 +1,5 @@
 ---
-datePublished: '2018-07-19T02:03:08.507Z'
+datePublished: '2018-07-19T02:03:18.304Z'
 authors: []
 description: >-
   Google Ads certified and an Unbounce Expert with years of graphic design and
@@ -11,7 +11,7 @@ via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2018-07-19T02:03:07.907Z'
+dateModified: '2018-07-19T02:03:17.479Z'
 sourcePath: _posts/2016-03-05-digital-and-print-communications.md
 title: >-
   Other marketers can do the same things I do. But they can’t think the way I
