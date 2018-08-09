@@ -1,17 +1,18 @@
 ---
-datePublished: '2018-07-19T02:03:18.304Z'
+datePublished: '2018-08-09T15:53:50.762Z'
 authors: []
 description: >-
-  Google Ads certified and an Unbounce Expert with years of graphic design and
-  website experience. Making things personal to give you every bit of attention
-  you deserve. Creating content with you and there together in every step of the
-  project. Design logos, create ad campaigns, talk email strategy, or build a
-  website. Let’s get to know each other… let’s make it personal.
+  Google Ads certified, an Unbounce Expert, and a SquareSpace Circle Member.
+  Basically I’ve got years of experience with the top web platforms. Making
+  things personal to give you every bit of attention you deserve. Creating
+  content with you and there together in every step of the project. Design
+  logos, create ad campaigns, talk email strategy, or build a website. Let’s get
+  to know each other… let’s make it personal.
 via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2018-07-19T02:03:17.479Z'
+dateModified: '2018-08-09T15:53:50.174Z'
 sourcePath: _posts/2016-03-05-digital-and-print-communications.md
 title: >-
   Other marketers can do the same things I do. But they can’t think the way I
@@ -28,7 +29,7 @@ _type: Article
 
 # Other marketers can do the same things I do. But they can't think the way I can.
 
-Google Ads certified and an Unbounce Expert with years of graphic design and website experience. Making things personal to give you every bit of attention you deserve. Creating content with you and there together in every step of the project. Design logos, create ad campaigns, talk email strategy, or build a website. Let's get to know each other... let's make it personal.
+Google Ads certified, an Unbounce Expert, and a SquareSpace Circle Member. Basically I've got years of experience with the top web platforms. Making things personal to give you every bit of attention you deserve. Creating content with you and there together in every step of the project. Design logos, create ad campaigns, talk email strategy, or build a website. Let's get to know each other... let's make it personal.
 
 Scroll down to see more and learn about Kyle...
 
